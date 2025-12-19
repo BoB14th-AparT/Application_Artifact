@@ -1,0 +1,308 @@
+﻿Path
+/data/app/com.jejememe.daybabyday-<base64>
+/data/app/com.jejememe.daybabyday-<base64>/base.apk
+/data/app/com.jejememe.daybabyday-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.jejememe.daybabyday-<base64>/base.apk:/data/app/com.jejememe.daybabyday-<base64>/split_config.arm64_v8a.apk:/data/app/com.jejememe.daybabyday-<base64>/split_config.xxhdpi.apk
+/data/app/com.jejememe.daybabyday-<base64>/lib/arm64
+/data/app/com.jejememe.daybabyday-<base64>/oat/arm64
+/data/app/com.jejememe.daybabyday-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.jejememe.daybabyday-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/data/com.jejememe.daybabyday
+/data/data/com.jejememe.daybabyday/app_webview/Default/WebStorage
+/data/data/com.jejememe.daybabyday/app_webview/Default/WebStorage/QuotaManager
+/data/data/com.jejememe.daybabyday/app_webview/Default/WebStorage/QuotaManager-journal
+/data/data/com.jejememe.daybabyday/files/apminsight/CrashCommonLog
+/data/data/com.jejememe.daybabyday/files/apminsight/CrashCommonLog/<apminsight_id>
+/data/data/com.jejememe.daybabyday/files/apminsight/CrashLogJava
+/data/data/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_java_<apminsight_id>_normal_<number>_normal_<apminsight_id>
+/data/data/com.jejememe.daybabyday/files/apminsight/TrackInfo
+/data/data/com.jejememe.daybabyday/files/apminsight/TrackInfo/20439
+/data/data/com.jejememe.daybabyday/files/datastore
+/data/data/com.jejememe.daybabyday/files/datastore/aqs
+/data/data/com.jejememe.daybabyday/files/datastore/aqs/sessionDataStore.data.lock
+/data/data/com.jejememe.daybabyday/files/datastore/ssckstore.preferences_pb
+/data/misc/gpu
+/data/misc/profiles/cur/0/com.jejememe.daybabyday
+/data/misc/profiles/cur/0/com.jejememe.daybabyday/config.arm64_v8a.split.prof
+/data/misc/profiles/cur/0/com.jejememe.daybabyday/config.xxhdpi.split.prof
+/data/misc/profiles/ref/com.jejememe.daybabyday
+/data/user/0/com.jejememe.daybabyday
+/data/user/0/com.jejememe.daybabyday/app_optimized
+/data/user/0/com.jejememe.daybabyday/app_textures
+/data/user/0/com.jejememe.daybabyday/app_webview
+/data/user/0/com.jejememe.daybabyday/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.jejememe.daybabyday/app_webview/BrowserMetrics
+/data/user/0/com.jejememe.daybabyday/app_webview/BrowserMetrics-spare.pma
+/data/user/0/com.jejememe.daybabyday/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma
+/data/user/0/com.jejememe.daybabyday/app_webview/Default
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB/https_www.youtube.com_0
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.blob
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/<number>.dbtmp
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/<number>.ldb
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/CURRENT
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOCK
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG.old
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-<number>
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Local Storage
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Local Storage/leveldb
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/PersistentOriginTrials
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/PersistentOriginTrials/LOCK
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/PersistentOriginTrials/LOG
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/PersistentOriginTrials/LOG.old
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Service Worker
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Service Worker/CacheStorage
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Service Worker/CacheStorage/<sha1>
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/<cache_entry_hex16>_0
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index-dir
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index-dir/temp-index
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index-dir/the-real-index
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Session Storage
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Session Storage/CURRENT
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Session Storage/LOCK
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Session Storage/LOG
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Shared Dictionary
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Shared Dictionary/cache
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Shared Dictionary/db
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/VideoDecodeStats
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/VideoDecodeStats/LOG.old
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Web Data
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/Web Data-journal
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/WebStorage
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/WebStorage/QuotaManager
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/WebStorage/QuotaManager-journal
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/blob_storage
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/blob_storage/<uuid>
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/shared_proto_db
+/data/user/0/com.jejememe.daybabyday/app_webview/Default/shared_proto_db/metadata
+/data/user/0/com.jejememe.daybabyday/app_webview_com.jejememe.daybabyday
+/data/user/0/com.jejememe.daybabyday/cache
+/data/user/0/com.jejememe.daybabyday/cache/<md5>.<number>
+/data/user/0/com.jejememe.daybabyday/cache/<md5>.<number>.tmp
+/data/user/0/com.jejememe.daybabyday/cache/WebView
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Crash Reports
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Crashpad
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Crashpad/attachments
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Crashpad/completed
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Crashpad/new
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Crashpad/pending
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/com.jejememe.daybabyday/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/com.jejememe.daybabyday/cache/WebView/SafeBrowsing
+/data/user/0/com.jejememe.daybabyday/cache/cached_video
+/data/user/0/com.jejememe.daybabyday/cache/data/user/<number>/com.jejememe.daybabyday/no_backup
+/data/user/0/com.jejememe.daybabyday/cache/dd-logs-pending-v2
+/data/user/0/com.jejememe.daybabyday/cache/dd-logs-v2
+/data/user/0/com.jejememe.daybabyday/cache/dd-web-logs-pending-v2
+/data/user/0/com.jejememe.daybabyday/cache/dd-web-logs-v2
+/data/user/0/com.jejememe.daybabyday/cache/goods_image
+/data/user/0/com.jejememe.daybabyday/cache/image_manager_disk_cache
+/data/user/0/com.jejememe.daybabyday/cache/image_manager_disk_cache/journal.bkp
+/data/user/0/com.jejememe.daybabyday/cache/instance_state
+/data/user/0/com.jejememe.daybabyday/cache/instance_state/etc_<number>_<uuid>.ssck
+/data/user/0/com.jejememe.daybabyday/cache/instrument
+/data/user/0/com.jejememe.daybabyday/cache/journal.bkp
+/data/user/0/com.jejememe.daybabyday/cache/media
+/data/user/0/com.jejememe.daybabyday/cache/media/<number>
+/data/user/0/com.jejememe.daybabyday/cache/media/cached_content_index.exi
+/data/user/0/com.jejememe.daybabyday/cache/ndk_crash_reports_intermediary_v2
+/data/user/0/com.jejememe.daybabyday/cache/ndk_crash_reports_intermediary_v2/network_information
+/data/user/0/com.jejememe.daybabyday/cache/ndk_crash_reports_intermediary_v2/user_information
+/data/user/0/com.jejememe.daybabyday/cache/ndk_crash_reports_v2
+/data/user/0/com.jejememe.daybabyday/cache/ndk_crash_reports_v2/user_information
+/data/user/0/com.jejememe.daybabyday/cache/playable
+/data/user/0/com.jejememe.daybabyday/cache/playable/common
+/data/user/0/com.jejememe.daybabyday/cache/playable/games
+/data/user/0/com.jejememe.daybabyday/cache/playable/pregames
+/data/user/0/com.jejememe.daybabyday/cache/rc_paywall_fonts
+/data/user/0/com.jejememe.daybabyday/cache/supersonicads
+/data/user/0/com.jejememe.daybabyday/cache/supersonicads/
+/data/user/0/com.jejememe.daybabyday/cache/supersonicads/.nomedia
+/data/user/0/com.jejememe.daybabyday/cache/supersonicads/ad-player
+/data/user/0/com.jejememe.daybabyday/cache/supersonicads/assets
+/data/user/0/com.jejememe.daybabyday/cache/supersonicads/controller_3114
+/data/user/0/com.jejememe.daybabyday/cache/supersonicads/dapi_2.<number>.<number>
+/data/user/0/com.jejememe.daybabyday/cache/supersonicads/mraid_1.<number>.<number>
+/data/user/0/com.jejememe.daybabyday/cache/supersonicads/temp
+/data/user/0/com.jejememe.daybabyday/cache/tt_ad
+/data/user/0/com.jejememe.daybabyday/cache/tt_ad//music
+/data/user/0/com.jejememe.daybabyday/cache/tt_ad/music
+/data/user/0/com.jejememe.daybabyday/cache/tt_ad/video_brand
+/data/user/0/com.jejememe.daybabyday/cache/tt_ad/video_default
+/data/user/0/com.jejememe.daybabyday/cache/tt_ad/video_reward_full
+/data/user/0/com.jejememe.daybabyday/cache/tt_ad/video_splash
+/data/user/0/com.jejememe.daybabyday/cache/tt_tmpl_pkg
+/data/user/0/com.jejememe.daybabyday/cache/tt_tmpl_pkg/template
+/data/user/0/com.jejememe.daybabyday/cache/tt_tmpl_pkg/template/<md5>
+/data/user/0/com.jejememe.daybabyday/cache/tt_tmpl_pkg/template/<md5>.temp
+/data/user/0/com.jejememe.daybabyday/cache/webview_com.jejememe.daybabyday
+/data/user/0/com.jejememe.daybabyday/databases
+/data/user/0/com.jejememe.daybabyday/databases/DayBabyDay.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/DayBabyDay.db-wal
+/data/user/0/com.jejememe.daybabyday/databases/OneSignal.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/OneSignal.db-wal
+/data/user/0/com.jejememe.daybabyday/databases/airbridge.db-journal
+/data/user/0/com.jejememe.daybabyday/databases/androidx.work.workdb
+/data/user/0/com.jejememe.daybabyday/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.jejememe.daybabyday/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.jejememe.daybabyday/databases/database.db-journal
+/data/user/0/com.jejememe.daybabyday/databases/exoplayer_internal.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/exoplayer_internal.db-wal
+/data/user/0/com.jejememe.daybabyday/databases/google_app_measurement_local.db
+/data/user/0/com.jejememe.daybabyday/databases/google_app_measurement_local.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/google_app_measurement_local.db-wal
+/data/user/0/com.jejememe.daybabyday/databases/mbridge.msdk.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/mbridge.msdk.db-wal
+/data/user/0/com.jejememe.daybabyday/databases/npth_log.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/npth_log.db-wal
+/data/user/0/com.jejememe.daybabyday/databases/pag_monitor.db-journal
+/data/user/0/com.jejememe.daybabyday/databases/pag_monitor.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/pag_monitor.db-wal
+/data/user/0/com.jejememe.daybabyday/databases/supersonic_sdk.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/supersonic_sdk.db-wal
+/data/user/0/com.jejememe.daybabyday/databases/track_manager_metrics_sdk.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/track_manager_metrics_sdk.db-wal
+/data/user/0/com.jejememe.daybabyday/databases/track_manager_monitor.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/track_manager_monitor.db-wal
+/data/user/0/com.jejememe.daybabyday/databases/ttopensdk.db-shm
+/data/user/0/com.jejememe.daybabyday/databases/ttopensdk.db-wal
+/data/user/0/com.jejememe.daybabyday/files
+/data/user/0/com.jejememe.daybabyday/files/.com.google.firebase.crashlytics
+/data/user/0/com.jejememe.daybabyday/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/com.jejememe.daybabyday/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/crash_marker
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/initialization_marker
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/native-reports
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/open-sessions
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/open-sessions/<session>
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/open-sessions/<session>/aqs.<md5>
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/open-sessions/<session>/event<crash_event_seq>
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/open-sessions/<session>/internal-keys
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/open-sessions/<session>/keys
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/open-sessions/<session>/report
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/open-sessions/<session>/start-time
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/open-sessions/<session>/user-data
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/open-sessions/<session>/userlog
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/priority-reports
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/reports
+/data/user/0/com.jejememe.daybabyday/files/.crashlytics.v3/com.jejememe.daybabyday/reports/<crash_report>
+/data/user/0/com.jejememe.daybabyday/files/.gms-dynamite-code-cache
+/data/user/0/com.jejememe.daybabyday/files/PersistedInstallation.<firebase_installation_b64>.json
+/data/user/0/com.jejememe.daybabyday/files/RevenueCat/event_store/event_store.jsonl
+/data/user/0/com.jejememe.daybabyday/files/RevenueCat/paywall_event_store/paywall_event_store.jsonl
+/data/user/0/com.jejememe.daybabyday/files/TTCache
+/data/user/0/com.jejememe.daybabyday/files/al
+/data/user/0/com.jejememe.daybabyday/files/al/persisted-ads
+/data/user/0/com.jejememe.daybabyday/files/al/persistent_postback_cache.json.new
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashCommonLog
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashCommonLog/<apminsight_id>
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_java_<apminsight_id>_normal_<number>_ignore_<apminsight_id>
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_java_<apminsight_id>_normal_<number>_ignore_<apminsight_id>/<number>_java_<apminsight_id>_normal_<number>_ignore_<apminsight_id>.<number>
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_java_<apminsight_id>_normal_<number>_ignore_<apminsight_id>/lock
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_java_<apminsight_id>_normal_<number>_ignore_<apminsight_id>/logEventStack
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_java_<apminsight_id>_normal_<number>_normal_<apminsight_id>
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_java_<apminsight_id>_normal_<number>_normal_<apminsight_id>/logEventStack
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_launch_<apminsight_id>_normal_<number>_ignore_<apminsight_id>
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_launch_<apminsight_id>_normal_<number>_ignore_<apminsight_id>/<number>_launch_<apminsight_id>_normal_<number>_ignore_<apminsight_id>.<number>
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_launch_<apminsight_id>_normal_<number>_ignore_<apminsight_id>/lock
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_launch_<apminsight_id>_normal_<number>_ignore_<apminsight_id>/logEventStack
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_launch_<apminsight_id>_normal_<number>_normal_<apminsight_id>
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogJava/<number>_launch_<apminsight_id>_normal_<number>_normal_<apminsight_id>/logEventStack
+/data/user/0/com.jejememe.daybabyday/files/apminsight/CrashLogNative
+/data/user/0/com.jejememe.daybabyday/files/apminsight/ProcessTrack/<number>
+/data/user/0/com.jejememe.daybabyday/files/apminsight/RuntimeContext
+/data/user/0/com.jejememe.daybabyday/files/apminsight/RuntimeContext/<number>-<number>.allData
+/data/user/0/com.jejememe.daybabyday/files/apminsight/RuntimeContext/<number>-<number>.ctx
+/data/user/0/com.jejememe.daybabyday/files/apminsight/RuntimeContext/did
+/data/user/0/com.jejememe.daybabyday/files/apminsight/TrackInfo/<number>
+/data/user/0/com.jejememe.daybabyday/files/apminsight/TrackInfo/<number>/<apminsight_id>
+/data/user/0/com.jejememe.daybabyday/files/apminsight/alogCrash
+/data/user/0/com.jejememe.daybabyday/files/apminsight/configCrash
+/data/user/0/com.jejememe.daybabyday/files/apminsight/crashCommand
+/data/user/0/com.jejememe.daybabyday/files/datastore
+/data/user/0/com.jejememe.daybabyday/files/datastore/aqs
+/data/user/0/com.jejememe.daybabyday/files/dd-logs-v2
+/data/user/0/com.jejememe.daybabyday/files/has_anr_signal_com.jejememe.daybabyday
+/data/user/0/com.jejememe.daybabyday/files/libso
+/data/user/0/com.jejememe.daybabyday/files/oat
+/data/user/0/com.jejememe.daybabyday/files/phenotype/shared/com.google.android.gms.clearcut_client#com.jejememe.daybabyday.pb
+/data/user/0/com.jejememe.daybabyday/files/phenotype/shared/com.google.android.gms.measurement#com.jejememe.daybabyday.pb
+/data/user/0/com.jejememe.daybabyday/files/phenotype_storage_info/shared
+/data/user/0/com.jejememe.daybabyday/files/sp_global_app_id
+/data/user/0/com.jejememe.daybabyday/files/sp_global_icon_id
+/data/user/0/com.jejememe.daybabyday/files/sp_global_privacy
+/data/user/0/com.jejememe.daybabyday/files/ttopenadsdk.bak
+/data/user/0/com.jejememe.daybabyday/no_backup
+/data/user/0/com.jejememe.daybabyday/no_backup/androidx.work.workdb-journal
+/data/user/0/com.jejememe.daybabyday/no_backup/unclosed_ad
+/data/user/0/com.jejememe.daybabyday/no_backup/vungle_cache
+/data/user/0/com.jejememe.daybabyday/no_backup/vungle_cache/clever_cache
+/data/user/0/com.jejememe.daybabyday/no_backup/vungle_cache/downloads
+/data/user/0/com.jejememe.daybabyday/no_backup/vungle_cache/js
+/data/user/0/com.jejememe.daybabyday/no_backup/vungle_cache/js/mraid_5_3_0
+/data/user/0/com.jejememe.daybabyday/shared_prefs
+/data/user/0/com.jejememe.daybabyday/shared_prefs/com.applovin.sdk.preferences.<applovin_pref_id>.xml.bak
+/data/user/0/com.jejememe.daybabyday/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml
+/data/user/0/com.jejememe.daybabyday/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml.bak
+/data/user_de/0/com.jejememe.daybabyday
+/data/user_de/0/com.jejememe.daybabyday/app_webview_com.jejememe.daybabyday
+/data/user_de/0/com.jejememe.daybabyday/cache/webview_com.jejememe.daybabyday
+/data/user_de/0/com.jejememe.daybabyday/code_cache
+/data/user_de/0/com.jejememe.daybabyday/code_cache/com.android.renderscript.cache/IntrinsicsBLUR-adreno.meta
+/data/user_de/0/com.jejememe.daybabyday/shared_prefs
+/sdcard/Android/data/com.jejememe.daybabyday
+/sdcard/Android/data/com.jejememe.daybabyday/cache
+/sdcard/Android/data/com.jejememe.daybabyday/files
+/storage/emulated/0/Android/data/com.jejememe.daybabyday
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/cache
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/crashinfo
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/other
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res/.mbridge700
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res/.mbridge700/mb/config
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res/.mbridge700/mb/config/mbridge
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res/.mbridge700/mb/res/html
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res/.mbridge700/mb/res/img
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res/.mbridge700/mb/res/picasso
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res/.mbridge700/mb/res/res
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res/.mbridge700/mb/res/xml
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res/Movies
+/storage/emulated/0/Android/data/com.jejememe.daybabyday/files/mb/res/Movies/mb/res/.MBridge_VC

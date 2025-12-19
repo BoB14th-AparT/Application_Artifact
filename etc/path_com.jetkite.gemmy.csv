@@ -1,0 +1,126 @@
+﻿Path
+/data/app/com.jetkite.gemmy-<base64>
+/data/app/com.jetkite.gemmy-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.jetkite.gemmy-<base64>/lib/arm64
+/data/app/com.jetkite.gemmy-<base64>/oat/arm64
+/data/app/com.jetkite.gemmy-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.jetkite.gemmy-<base64>/split_config.ko.apk!/lib/arm64-v8a
+/data/app/com.jetkite.gemmy-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/data/com.jetkite.gemmy
+/data/data/com.jetkite.gemmy/files/datastore
+/data/misc/gpu
+/data/misc/profiles/cur/0/com.jetkite.gemmy
+/data/misc/profiles/cur/0/com.jetkite.gemmy/config.arm64_v8a.split.prof
+/data/misc/profiles/cur/0/com.jetkite.gemmy/config.ko.split.prof
+/data/misc/profiles/cur/0/com.jetkite.gemmy/config.xxhdpi.split.prof
+/data/misc/profiles/ref/com.jetkite.gemmy
+/data/user/0/com.jetkite.gemmy
+/data/user/0/com.jetkite.gemmy/app_SafeDK_BANNER
+/data/user/0/com.jetkite.gemmy/app_SafeDK_Files
+/data/user/0/com.jetkite.gemmy/app_SafeDK_INTERSTITIAL
+/data/user/0/com.jetkite.gemmy/app_SafeDK_MREC
+/data/user/0/com.jetkite.gemmy/app_SafeDK_NATIVE
+/data/user/0/com.jetkite.gemmy/app_optimized
+/data/user/0/com.jetkite.gemmy/app_pccache
+/data/user/0/com.jetkite.gemmy/app_textures
+/data/user/0/com.jetkite.gemmy/app_tmppccache
+/data/user/0/com.jetkite.gemmy/app_webview
+/data/user/0/com.jetkite.gemmy/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.jetkite.gemmy/app_webview/BrowserMetrics
+/data/user/0/com.jetkite.gemmy/app_webview/Default
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Local Storage
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Local Storage/leveldb
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/com.jetkite.gemmy/app_webview/Default/PersistentOriginTrials
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Session Storage
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Session Storage/CURRENT
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Session Storage/LOCK
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Session Storage/LOG
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Shared Dictionary
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Shared Dictionary/cache
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Shared Dictionary/db
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Web Data
+/data/user/0/com.jetkite.gemmy/app_webview/Default/Web Data-journal
+/data/user/0/com.jetkite.gemmy/app_webview/Default/blob_storage
+/data/user/0/com.jetkite.gemmy/app_webview/Default/blob_storage/<uuid>
+/data/user/0/com.jetkite.gemmy/app_webview/Default/shared_proto_db
+/data/user/0/com.jetkite.gemmy/app_webview/Default/shared_proto_db/metadata
+/data/user/0/com.jetkite.gemmy/app_webview_com.jetkite.gemmy
+/data/user/0/com.jetkite.gemmy/cache
+/data/user/0/com.jetkite.gemmy/cache/WebView
+/data/user/0/com.jetkite.gemmy/cache/WebView/Crash Reports
+/data/user/0/com.jetkite.gemmy/cache/WebView/Crashpad
+/data/user/0/com.jetkite.gemmy/cache/WebView/Crashpad/attachments
+/data/user/0/com.jetkite.gemmy/cache/WebView/Crashpad/completed
+/data/user/0/com.jetkite.gemmy/cache/WebView/Crashpad/new
+/data/user/0/com.jetkite.gemmy/cache/WebView/Crashpad/pending
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/com.jetkite.gemmy/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/com.jetkite.gemmy/cache/WebView/SafeBrowsing
+/data/user/0/com.jetkite.gemmy/cache/data/user/<number>/com.jetkite.gemmy/no_backup
+/data/user/0/com.jetkite.gemmy/cache/image_manager_disk_cache
+/data/user/0/com.jetkite.gemmy/cache/image_manager_disk_cache/journal.bkp
+/data/user/0/com.jetkite.gemmy/cache/instrument
+/data/user/0/com.jetkite.gemmy/cache/volley
+/data/user/0/com.jetkite.gemmy/cache/webview_com.jetkite.gemmy
+/data/user/0/com.jetkite.gemmy/databases
+/data/user/0/com.jetkite.gemmy/databases/ads.db-shm
+/data/user/0/com.jetkite.gemmy/databases/ads.db-wal
+/data/user/0/com.jetkite.gemmy/databases/androidx.work.workdb
+/data/user/0/com.jetkite.gemmy/databases/chats.db-shm
+/data/user/0/com.jetkite.gemmy/databases/chats.db-wal
+/data/user/0/com.jetkite.gemmy/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.jetkite.gemmy/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.jetkite.gemmy/databases/google_app_measurement_local.db-shm
+/data/user/0/com.jetkite.gemmy/databases/google_app_measurement_local.db-wal
+/data/user/0/com.jetkite.gemmy/files
+/data/user/0/com.jetkite.gemmy/files/.gms-dynamite-code-cache
+/data/user/0/com.jetkite.gemmy/files/al
+/data/user/0/com.jetkite.gemmy/files/config
+/data/user/0/com.jetkite.gemmy/files/datastore
+/data/user/0/com.jetkite.gemmy/files/debuglogs
+/data/user/0/com.jetkite.gemmy/files/im_cached_content
+/data/user/0/com.jetkite.gemmy/files/oat
+/data/user/0/com.jetkite.gemmy/files/phenotype/shared/com.google.android.gms.measurement#com.jetkite.gemmy.pb
+/data/user/0/com.jetkite.gemmy/files/phenotype_storage_info/shared
+/data/user/0/com.jetkite.gemmy/files/safedk/BANNER
+/data/user/0/com.jetkite.gemmy/files/safedk/Files
+/data/user/0/com.jetkite.gemmy/files/safedk/INTERSTITIAL
+/data/user/0/com.jetkite.gemmy/files/safedk/MREC
+/data/user/0/com.jetkite.gemmy/files/safedk/NATIVE
+/data/user/0/com.jetkite.gemmy/no_backup
+/data/user/0/com.jetkite.gemmy/no_backup/androidx.work.workdb-journal
+/data/user/0/com.jetkite.gemmy/shared_prefs
+/data/user_de/0/com.jetkite.gemmy
+/data/user_de/0/com.jetkite.gemmy/app_webview_com.jetkite.gemmy
+/data/user_de/0/com.jetkite.gemmy/cache/webview_com.jetkite.gemmy
+/data/user_de/0/com.jetkite.gemmy/code_cache
+/data/user_de/0/com.jetkite.gemmy/shared_prefs
+/sdcard/Android/data/com.jetkite.gemmy
+/sdcard/Android/data/com.jetkite.gemmy/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.jetkite.gemmy/files

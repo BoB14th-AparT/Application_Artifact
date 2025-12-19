@@ -1,0 +1,123 @@
+﻿Path
+/data/app/com.samsamm2.mobileapp-<base64>
+/data/app/com.samsamm2.mobileapp-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.samsamm2.mobileapp-<base64>/lib/arm64
+/data/app/com.samsamm2.mobileapp-<base64>/oat/arm64
+/data/data/com.samsamm2.mobileapp
+/data/data/com.samsamm2.mobileapp/files/datastore
+/data/data/com.samsamm2.mobileapp/files/datastore/firebaseSessions
+/data/misc/profiles/cur/0/com.samsamm2.mobileapp
+/data/misc/profiles/ref/com.samsamm2.mobileapp
+/data/user/0/com.samsamm2.mobileapp
+/data/user/0/com.samsamm2.mobileapp/app_sslcache
+/data/user/0/com.samsamm2.mobileapp/app_textures
+/data/user/0/com.samsamm2.mobileapp/app_webview
+/data/user/0/com.samsamm2.mobileapp/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.samsamm2.mobileapp/app_webview/BrowserMetrics
+/data/user/0/com.samsamm2.mobileapp/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/IndexedDB
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/IndexedDB/https_web.33m2.co.kr_0.indexeddb.leveldb
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Local Storage
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Local Storage/leveldb
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Local Storage/leveldb/<number>.ldb
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/PersistentOriginTrials
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Session Storage
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Session Storage/CURRENT
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Session Storage/LOCK
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Session Storage/LOG
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Shared Dictionary
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Shared Dictionary/cache
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Shared Dictionary/db
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Web Data
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/Web Data-journal
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/WebStorage
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/blob_storage
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/blob_storage/<uuid>
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/shared_proto_db
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/shared_proto_db/MANIFEST-<number>
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/shared_proto_db/metadata
+/data/user/0/com.samsamm2.mobileapp/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>
+/data/user/0/com.samsamm2.mobileapp/app_webview_com.samsamm2.mobileapp
+/data/user/0/com.samsamm2.mobileapp/cache
+/data/user/0/com.samsamm2.mobileapp/cache/WebView
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Crash Reports
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Crashpad
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Crashpad/attachments
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Crashpad/completed
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Crashpad/new
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Crashpad/pending
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/com.samsamm2.mobileapp/cache/WebView/SafeBrowsing
+/data/user/0/com.samsamm2.mobileapp/cache/image_manager_disk_cache
+/data/user/0/com.samsamm2.mobileapp/cache/image_manager_disk_cache/journal.bkp
+/data/user/0/com.samsamm2.mobileapp/cache/webview_com.samsamm2.mobileapp
+/data/user/0/com.samsamm2.mobileapp/databases
+/data/user/0/com.samsamm2.mobileapp/databases/SamSamM2DB-shm
+/data/user/0/com.samsamm2.mobileapp/databases/SamSamM2DB-wal
+/data/user/0/com.samsamm2.mobileapp/databases/airbridge.db-journal
+/data/user/0/com.samsamm2.mobileapp/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.samsamm2.mobileapp/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.samsamm2.mobileapp/databases/google_app_measurement_local.db-shm
+/data/user/0/com.samsamm2.mobileapp/databases/google_app_measurement_local.db-wal
+/data/user/0/com.samsamm2.mobileapp/files
+/data/user/0/com.samsamm2.mobileapp/files/.com.google.firebase.crashlytics
+/data/user/0/com.samsamm2.mobileapp/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/com.samsamm2.mobileapp/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/crash_marker
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/initialization_marker
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/native-reports
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/open-sessions
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/open-sessions/<session>
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/open-sessions/<session>/aqs.<md5>
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/open-sessions/<session>/internal-keys
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/open-sessions/<session>/keys
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/open-sessions/<session>/report
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/open-sessions/<session>/start-time
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/open-sessions/<session>/user-data
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/open-sessions/<session>/userlog
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/priority-reports
+/data/user/0/com.samsamm2.mobileapp/files/.crashlytics.v3/com.samsamm2.mobileapp/reports
+/data/user/0/com.samsamm2.mobileapp/files/.gms-dynamite-code-cache
+/data/user/0/com.samsamm2.mobileapp/files/androidx.appcompat.app.AppCompatDelegate.application_locales_record_file
+/data/user/0/com.samsamm2.mobileapp/files/datastore
+/data/user/0/com.samsamm2.mobileapp/files/datastore/firebaseSessions
+/data/user/0/com.samsamm2.mobileapp/files/phenotype/shared/com.google.android.gms.clearcut_client#com.samsamm2.mobileapp.pb
+/data/user/0/com.samsamm2.mobileapp/files/phenotype/shared/com.google.android.gms.measurement#com.samsamm2.mobileapp.pb
+/data/user/0/com.samsamm2.mobileapp/files/phenotype_storage_info/shared
+/data/user/0/com.samsamm2.mobileapp/no_backup
+/data/user/0/com.samsamm2.mobileapp/shared_prefs
+/data/user_de/0/com.samsamm2.mobileapp
+/data/user_de/0/com.samsamm2.mobileapp/app_webview_com.samsamm2.mobileapp
+/data/user_de/0/com.samsamm2.mobileapp/cache/webview_com.samsamm2.mobileapp
+/data/user_de/0/com.samsamm2.mobileapp/code_cache
+/data/user_de/0/com.samsamm2.mobileapp/shared_prefs
+/sdcard/Android/data/com.samsamm2.mobileapp
+/sdcard/Android/data/com.samsamm2.mobileapp/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.samsamm2.mobileapp/files

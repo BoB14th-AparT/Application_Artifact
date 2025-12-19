@@ -1,0 +1,277 @@
+﻿Path
+/data/app/com.agoda.mobile.consumer-<base64>/base.apk
+/data/app/com.agoda.mobile.consumer-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.agoda.mobile.consumer-<base64>/lib/arm64
+/data/app/com.agoda.mobile.consumer-<base64>/oat/arm64
+/data/app/com.agoda.mobile.consumer-<base64>/split_config.arm64_v8a.apk
+/data/app/com.agoda.mobile.consumer-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.agoda.mobile.consumer-<base64>/split_config.xxhdpi.apk
+/data/app/com.agoda.mobile.consumer-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/data/com.agoda.mobile.consumer
+/data/data/com.agoda.mobile.consumer/app_pccache/5/<sha1>/pcam.jar!/libdB3BFBE660A1B.so
+/data/data/com.agoda.mobile.consumer/app_webview/Default
+/data/data/com.agoda.mobile.consumer/app_webview/Default/Cookies-journal
+/data/data/com.agoda.mobile.consumer/app_webview/Default/WebStorage
+/data/data/com.agoda.mobile.consumer/files/mmb-offline.mht
+/data/misc/gpu
+/data/misc/profiles/cur/0/com.agoda.mobile.consumer
+/data/misc/profiles/cur/0/com.agoda.mobile.consumer/config.arm64_v8a.split.prof
+/data/misc/profiles/cur/0/com.agoda.mobile.consumer/config.xxhdpi.split.prof
+/data/misc/profiles/ref/com.agoda.mobile.consumer
+/data/user/0/com.agoda.mobile.consumer
+/data/user/0/com.agoda.mobile.consumer/app_cache
+/data/user/0/com.agoda.mobile.consumer/app_cache/metadata_cache.json
+/data/user/0/com.agoda.mobile.consumer/app_pccache
+/data/user/0/com.agoda.mobile.consumer/app_pccache/<number>
+/data/user/0/com.agoda.mobile.consumer/app_pccache/<number>/<sha1>
+/data/user/0/com.agoda.mobile.consumer/app_pccache/<number>/<sha1>/oat
+/data/user/0/com.agoda.mobile.consumer/app_pccache/<number>/<sha1>/oat/pcam.jar.cur.prof
+/data/user/0/com.agoda.mobile.consumer/app_pccache/<number>/<sha1>/pcam.jar!
+/data/user/0/com.agoda.mobile.consumer/app_pccache/<number>/<sha1>/pcbc
+/data/user/0/com.agoda.mobile.consumer/app_pccache/<number>/<sha1>/pcopt
+/data/user/0/com.agoda.mobile.consumer/app_textures
+/data/user/0/com.agoda.mobile.consumer/app_tmppccache
+/data/user/0/com.agoda.mobile.consumer/app_webview
+/data/user/0/com.agoda.mobile.consumer/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.agoda.mobile.consumer/app_webview/BrowserMetrics
+/data/user/0/com.agoda.mobile.consumer/app_webview/BrowserMetrics-spare.pma
+/data/user/0/com.agoda.mobile.consumer/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/.com.google.Chrome.<webview_profile>
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Cookies
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Cookies-journal
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/IndexedDB
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/IndexedDB/https_www.agoda.com_0
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/IndexedDB/https_www.agoda.com_0.indexeddb.blob
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/IndexedDB/https_www.agoda.com_0.indexeddb.leveldb
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/IndexedDB/https_www.agoda.com_0.indexeddb.leveldb/<number>.ldb
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/IndexedDB/https_www.agoda.com_0.indexeddb.leveldb/CURRENT
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/IndexedDB/https_www.agoda.com_0.indexeddb.leveldb/LOCK
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/IndexedDB/https_www.agoda.com_0.indexeddb.leveldb/LOG
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/IndexedDB/https_www.agoda.com_0.indexeddb.leveldb/LOG.old
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/IndexedDB/https_www.agoda.com_0.indexeddb.leveldb/MANIFEST-<number>
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Local Storage
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Local Storage/leveldb
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Local Storage/leveldb/<number>.ldb
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/PersistentOriginTrials
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/PersistentOriginTrials/LOCK
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/PersistentOriginTrials/LOG
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/PersistentOriginTrials/LOG.old
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Preferences
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/CacheStorage/<sha1>
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/Database
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/Database/CURRENT
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/Database/LOCK
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/Database/LOG
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/Database/LOG.old
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/Database/MANIFEST-<number>
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/ScriptCache
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_0
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_1
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_s
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/ScriptCache/index
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/ScriptCache/index-dir
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/ScriptCache/index-dir/temp-index
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Service Worker/ScriptCache/index-dir/the-real-index
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Session Storage
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Session Storage/<number>.ldb
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Session Storage/CURRENT
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Session Storage/LOCK
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Session Storage/LOG
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Shared Dictionary
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Shared Dictionary/cache
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Shared Dictionary/db
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Web Data
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/Web Data-journal
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/WebStorage
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/WebStorage/QuotaManager
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/WebStorage/QuotaManager-journal
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/blob_storage
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/blob_storage/<uuid>
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/CURRENT
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/LOCK
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/LOG
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/LOG.old
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/MANIFEST-<number>
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/metadata
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/metadata/CURRENT
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/metadata/LOCK
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/metadata/LOG
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/metadata/LOG.old
+/data/user/0/com.agoda.mobile.consumer/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>
+/data/user/0/com.agoda.mobile.consumer/app_webview/pref_store
+/data/user/0/com.agoda.mobile.consumer/app_webview/variations_seed
+/data/user/0/com.agoda.mobile.consumer/app_webview/variations_stamp
+/data/user/0/com.agoda.mobile.consumer/app_webview/webview_data.lock
+/data/user/0/com.agoda.mobile.consumer/app_webview_com.agoda.mobile.consumer
+/data/user/0/com.agoda.mobile.consumer/cache
+/data/user/0/com.agoda.mobile.consumer/cache/WebView
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Crash Reports
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Crashpad
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Crashpad/attachments
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Crashpad/completed
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Crashpad/new
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Crashpad/pending
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir/the-real-index
+/data/user/0/com.agoda.mobile.consumer/cache/WebView/SafeBrowsing
+/data/user/0/com.agoda.mobile.consumer/cache/ab_triggers
+/data/user/0/com.agoda.mobile.consumer/cache/appboy.imageloader.lru.cache
+/data/user/0/com.agoda.mobile.consumer/cache/appboy.imageloader.lru.cache/journal.bkp
+/data/user/0/com.agoda.mobile.consumer/cache/data
+/data/user/0/com.agoda.mobile.consumer/cache/data/user
+/data/user/0/com.agoda.mobile.consumer/cache/data/user/<number>
+/data/user/0/com.agoda.mobile.consumer/cache/data/user/<number>/com.agoda.mobile.consumer
+/data/user/0/com.agoda.mobile.consumer/cache/data/user/<number>/com.agoda.mobile.consumer/no_backup
+/data/user/0/com.agoda.mobile.consumer/cache/image_cache
+/data/user/0/com.agoda.mobile.consumer/cache/image_cache/<sha256>.<number>
+/data/user/0/com.agoda.mobile.consumer/cache/image_cache/journal
+/data/user/0/com.agoda.mobile.consumer/cache/image_manager_disk_cache
+/data/user/0/com.agoda.mobile.consumer/cache/image_manager_disk_cache/journal
+/data/user/0/com.agoda.mobile.consumer/cache/instrument
+/data/user/0/com.agoda.mobile.consumer/cache/oat
+/data/user/0/com.agoda.mobile.consumer/cache/oat/<number>.jar.cur.prof
+/data/user/0/com.agoda.mobile.consumer/cache/search_criteria_db.lck
+/data/user/0/com.agoda.mobile.consumer/cache/webview_com.agoda.mobile.consumer
+/data/user/0/com.agoda.mobile.consumer/code_cache
+/data/user/0/com.agoda.mobile.consumer/code_cache/.
+/data/user/0/com.agoda.mobile.consumer/code_cache/.    ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.  ​​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.  ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.  ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.    ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.   ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.    ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.  ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.   ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.   ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.    ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.  ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.  ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.​    ​
+/data/user/0/com.agoda.mobile.consumer/code_cache/.​​
+/data/user/0/com.agoda.mobile.consumer/databases
+/data/user/0/com.agoda.mobile.consumer/databases/agoda_data.db-journal
+/data/user/0/com.agoda.mobile.consumer/databases/androidx.work.workdb
+/data/user/0/com.agoda.mobile.consumer/databases/cached_filters_db-journal
+/data/user/0/com.agoda.mobile.consumer/databases/cms_experiments_db-journal
+/data/user/0/com.agoda.mobile.consumer/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.agoda.mobile.consumer/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.agoda.mobile.consumer/databases/data
+/data/user/0/com.agoda.mobile.consumer/databases/data-shm
+/data/user/0/com.agoda.mobile.consumer/databases/data-wal
+/data/user/0/com.agoda.mobile.consumer/databases/experiments_db-journal
+/data/user/0/com.agoda.mobile.consumer/databases/google_app_measurement_local.db-shm
+/data/user/0/com.agoda.mobile.consumer/databases/google_app_measurement_local.db-wal
+/data/user/0/com.agoda.mobile.consumer/databases/google_app_measurement_local.db8
+/data/user/0/com.agoda.mobile.consumer/databases/personal_info_db
+/data/user/0/com.agoda.mobile.consumer/databases/personal_info_db-shm
+/data/user/0/com.agoda.mobile.consumer/databases/personal_info_db-wal
+/data/user/0/com.agoda.mobile.consumer/databases/search_criteria_db
+/data/user/0/com.agoda.mobile.consumer/databases/search_criteria_db-journal
+/data/user/0/com.agoda.mobile.consumer/databases/search_criteria_db-shm
+/data/user/0/com.agoda.mobile.consumer/databases/search_criteria_db-wal
+/data/user/0/com.agoda.mobile.consumer/files
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/crash_marker
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/initialization_marker
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/native-reports
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/open-sessions
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/open-sessions/<session>
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/open-sessions/<session>/aqs.<md5>
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/open-sessions/<session>/event<crash_event_seq>
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/open-sessions/<session>/internal-keys
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/open-sessions/<session>/keys
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/open-sessions/<session>/report
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/open-sessions/<session>/start-time
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/open-sessions/<session>/user-data
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/open-sessions/<session>/userlog
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/priority-reports
+/data/user/0/com.agoda.mobile.consumer/files/.com.google.firebase.crashlytics.files.v2:com.agoda.mobile.consumer/reports
+/data/user/0/com.agoda.mobile.consumer/files/.gms-dynamite-code-cache
+/data/user/0/com.agoda.mobile.consumer/files/AFExceptionsCache
+/data/user/0/com.agoda.mobile.consumer/files/AFRequestCache
+/data/user/0/com.agoda.mobile.consumer/files/AFRequestCache/AttrCache
+/data/user/0/com.agoda.mobile.consumer/files/AFRequestCache/AttrCache/<number>
+/data/user/0/com.agoda.mobile.consumer/files/AFRequestCache/ConversionsCache
+/data/user/0/com.agoda.mobile.consumer/files/AFRequestCache/ConversionsCache/<number>
+/data/user/0/com.agoda.mobile.consumer/files/AFRequestCache/OtherCache
+/data/user/0/com.agoda.mobile.consumer/files/AFRequestCache/OtherCache/<number>
+/data/user/0/com.agoda.mobile.consumer/files/AppEventsLogger.persistedevents
+/data/user/0/com.agoda.mobile.consumer/files/assetpacks
+/data/user/0/com.agoda.mobile.consumer/files/datastore
+/data/user/0/com.agoda.mobile.consumer/files/datastore/custom_attribute_info.preferences_pb
+/data/user/0/com.agoda.mobile.consumer/files/datastore/grouping_api_data_store.preferences_pb
+/data/user/0/com.agoda.mobile.consumer/files/datastore/pop_up_table.preferences_pb
+/data/user/0/com.agoda.mobile.consumer/files/generatefid.lock
+/data/user/0/com.agoda.mobile.consumer/files/mmb-offline.mht
+/data/user/0/com.agoda.mobile.consumer/files/phenotype/shared/com.google.android.gms.clearcut_client#com.agoda.mobile.consumer.pb
+/data/user/0/com.agoda.mobile.consumer/files/phenotype/shared/com.google.android.gms.measurement#com.agoda.mobile.consumer.pb
+/data/user/0/com.agoda.mobile.consumer/files/phenotype_storage_info
+/data/user/0/com.agoda.mobile.consumer/files/phenotype_storage_info/shared
+/data/user/0/com.agoda.mobile.consumer/files/profileInstalled
+/data/user/0/com.agoda.mobile.consumer/files/rxbeacon_img
+/data/user/0/com.agoda.mobile.consumer/files/rxbeacon_startup
+/data/user/0/com.agoda.mobile.consumer/files/splitcompat
+/data/user/0/com.agoda.mobile.consumer/files/splitcompat/<number>
+/data/user/0/com.agoda.mobile.consumer/files/splitcompat/<number>/verified-splits
+/data/user/0/com.agoda.mobile.consumer/lib
+/data/user/0/com.agoda.mobile.consumer/no_backup
+/data/user/0/com.agoda.mobile.consumer/no_backup/androidx.work.workdb
+/data/user/0/com.agoda.mobile.consumer/no_backup/androidx.work.workdb-journal
+/data/user/0/com.agoda.mobile.consumer/no_backup/ftr_uid.db-shm
+/data/user/0/com.agoda.mobile.consumer/no_backup/ftr_uid.db-wal
+/data/user/0/com.agoda.mobile.consumer/shared_prefs
+/data/user/0/com.agoda.mobile.consumer/shared_prefs/CookiePersistence.xml
+/data/user/0/com.agoda.mobile.consumer/shared_prefs/com.google.android.gms.measurement.prefs.xml
+/data/user/0/com.agoda.mobile.consumer/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak
+/data/user_de/0/com.agoda.mobile.consumer
+/data/user_de/0/com.agoda.mobile.consumer/app_webview_com.agoda.mobile.consumer
+/data/user_de/0/com.agoda.mobile.consumer/cache/webview_com.agoda.mobile.consumer
+/data/user_de/0/com.agoda.mobile.consumer/code_cache
+/data/user_de/0/com.agoda.mobile.consumer/shared_prefs
+/sdcard/Android/data/com.agoda.mobile.consumer
+/sdcard/Android/data/com.agoda.mobile.consumer/cache
+/sdcard/Android/data/com.agoda.mobile.consumer/files
+/storage/emulated/0/Android/data/com.agoda.mobile.consumer
+/storage/emulated/0/Android/data/com.agoda.mobile.consumer/cache
+/storage/emulated/0/Android/data/com.agoda.mobile.consumer/files
+/storage/emulated/0/Android/obb/com.agoda.mobile.consumer

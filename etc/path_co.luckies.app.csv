@@ -1,0 +1,204 @@
+﻿Path
+/data/app/co.luckies.app-<base64>
+/data/app/co.luckies.app-<base64>/base.apk!/lib/arm64-v8a
+/data/app/co.luckies.app-<base64>/lib/arm64
+/data/app/co.luckies.app-<base64>/oat/arm64
+/data/app/co.luckies.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/co.luckies.app-<base64>/split_config.ko.apk!/lib/arm64-v8a
+/data/app/co.luckies.app-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/data/co.luckies.app/app_webview/Default
+/data/data/co.luckies.app/app_webview/Default/Cookies-journal
+/data/data/co.luckies.app/app_webview/Default/WebStorage
+/data/data/co.luckies.app/app_webview/Default/WebStorage/QuotaManager
+/data/data/co.luckies.app/app_webview/Default/WebStorage/QuotaManager-journal
+/data/misc/profiles/cur/0/co.luckies.app
+/data/misc/profiles/cur/0/co.luckies.app/config.arm64_v8a.split.prof
+/data/misc/profiles/cur/0/co.luckies.app/config.ko.split.prof
+/data/misc/profiles/cur/0/co.luckies.app/config.xxhdpi.split.prof
+/data/user/0/co.luckies.app
+/data/user/0/co.luckies.app/app_amplitude/co.luckies.app/$default_instance/analytics/events
+/data/user/0/co.luckies.app/app_amplitude/co.luckies.app/$default_instance/analytics/events/$default_instance-<number>
+/data/user/0/co.luckies.app/app_amplitude/co.luckies.app/$default_instance/analytics/identify-intercept
+/data/user/0/co.luckies.app/app_amplitude/co.luckies.app/$default_instance/analytics/identify-intercept/$default_instance-<number>
+/data/user/0/co.luckies.app/app_database
+/data/user/0/co.luckies.app/app_flutter
+/data/user/0/co.luckies.app/app_lib
+/data/user/0/co.luckies.app/app_optimized
+/data/user/0/co.luckies.app/app_pccache/<number>/<sha1>/oat/pcam.jar.cur.prof
+/data/user/0/co.luckies.app/app_tmppccache
+/data/user/0/co.luckies.app/app_webview
+/data/user/0/co.luckies.app/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/co.luckies.app/app_webview/BrowserMetrics
+/data/user/0/co.luckies.app/app_webview/BrowserMetrics-spare.pma
+/data/user/0/co.luckies.app/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma
+/data/user/0/co.luckies.app/app_webview/Default
+/data/user/0/co.luckies.app/app_webview/Default/Cookies
+/data/user/0/co.luckies.app/app_webview/Default/Cookies-journal
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB/https_app.lucki.es_0
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB/https_app.lucki.es_0.indexeddb.blob
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB/https_app.lucki.es_0.indexeddb.leveldb
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB/https_app.lucki.es_0.indexeddb.leveldb/<number>.dbtmp
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB/https_app.lucki.es_0.indexeddb.leveldb/<number>.ldb
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB/https_app.lucki.es_0.indexeddb.leveldb/CURRENT
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB/https_app.lucki.es_0.indexeddb.leveldb/LOCK
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB/https_app.lucki.es_0.indexeddb.leveldb/LOG
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB/https_app.lucki.es_0.indexeddb.leveldb/LOG.old
+/data/user/0/co.luckies.app/app_webview/Default/IndexedDB/https_app.lucki.es_0.indexeddb.leveldb/MANIFEST-<number>
+/data/user/0/co.luckies.app/app_webview/Default/Local Storage
+/data/user/0/co.luckies.app/app_webview/Default/Local Storage/leveldb
+/data/user/0/co.luckies.app/app_webview/Default/Local Storage/leveldb/<number>.ldb
+/data/user/0/co.luckies.app/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/co.luckies.app/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/co.luckies.app/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/co.luckies.app/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/co.luckies.app/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/co.luckies.app/app_webview/Default/PersistentOriginTrials
+/data/user/0/co.luckies.app/app_webview/Default/PersistentOriginTrials/LOCK
+/data/user/0/co.luckies.app/app_webview/Default/PersistentOriginTrials/LOG
+/data/user/0/co.luckies.app/app_webview/Default/PersistentOriginTrials/LOG.old
+/data/user/0/co.luckies.app/app_webview/Default/Session Storage
+/data/user/0/co.luckies.app/app_webview/Default/Session Storage/CURRENT
+/data/user/0/co.luckies.app/app_webview/Default/Session Storage/LOCK
+/data/user/0/co.luckies.app/app_webview/Default/Session Storage/LOG
+/data/user/0/co.luckies.app/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/co.luckies.app/app_webview/Default/Shared Dictionary
+/data/user/0/co.luckies.app/app_webview/Default/Shared Dictionary/cache
+/data/user/0/co.luckies.app/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/co.luckies.app/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/co.luckies.app/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/co.luckies.app/app_webview/Default/Shared Dictionary/db
+/data/user/0/co.luckies.app/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/co.luckies.app/app_webview/Default/VideoDecodeStats
+/data/user/0/co.luckies.app/app_webview/Default/VideoDecodeStats/LOCK
+/data/user/0/co.luckies.app/app_webview/Default/VideoDecodeStats/LOG
+/data/user/0/co.luckies.app/app_webview/Default/Web Data
+/data/user/0/co.luckies.app/app_webview/Default/Web Data-journal
+/data/user/0/co.luckies.app/app_webview/Default/WebStorage
+/data/user/0/co.luckies.app/app_webview/Default/WebStorage/QuotaManager
+/data/user/0/co.luckies.app/app_webview/Default/WebStorage/QuotaManager-journal
+/data/user/0/co.luckies.app/app_webview/Default/blob_storage
+/data/user/0/co.luckies.app/app_webview/Default/blob_storage/<uuid>
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/<number>.ldb
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/CURRENT
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/LOCK
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/LOG
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/LOG.old
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/MANIFEST-<number>
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/metadata
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/metadata/<number>.ldb
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/metadata/CURRENT
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/metadata/LOCK
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/metadata/LOG
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/metadata/LOG.old
+/data/user/0/co.luckies.app/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>
+/data/user/0/co.luckies.app/app_webview/pref_store
+/data/user/0/co.luckies.app/app_webview/variations_seed
+/data/user/0/co.luckies.app/app_webview/variations_seed_new
+/data/user/0/co.luckies.app/app_webview/variations_stamp
+/data/user/0/co.luckies.app/app_webview/webview_data.lock
+/data/user/0/co.luckies.app/app_webview_co.luckies.app
+/data/user/0/co.luckies.app/cache
+/data/user/0/co.luckies.app/cache/WebView
+/data/user/0/co.luckies.app/cache/WebView/Crash Reports
+/data/user/0/co.luckies.app/cache/WebView/Crashpad
+/data/user/0/co.luckies.app/cache/WebView/Crashpad/attachments
+/data/user/0/co.luckies.app/cache/WebView/Crashpad/completed
+/data/user/0/co.luckies.app/cache/WebView/Crashpad/new
+/data/user/0/co.luckies.app/cache/WebView/Crashpad/pending
+/data/user/0/co.luckies.app/cache/WebView/Default
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/co.luckies.app/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/co.luckies.app/cache/WebView/SafeBrowsing
+/data/user/0/co.luckies.app/cache/data/user/<number>/co.luckies.app/no_backup
+/data/user/0/co.luckies.app/cache/instrument
+/data/user/0/co.luckies.app/cache/playable
+/data/user/0/co.luckies.app/cache/tt_ad
+/data/user/0/co.luckies.app/cache/tt_tmpl_pkg
+/data/user/0/co.luckies.app/cache/volley
+/data/user/0/co.luckies.app/cache/volley/-<number>-<number>
+/data/user/0/co.luckies.app/cache/webview_co.luckies.app
+/data/user/0/co.luckies.app/code_cache
+/data/user/0/co.luckies.app/databases
+/data/user/0/co.luckies.app/databases/androidx.work.workdb
+/data/user/0/co.luckies.app/databases/com.google.android.datatransport.events-shm
+/data/user/0/co.luckies.app/databases/com.google.android.datatransport.events-wal
+/data/user/0/co.luckies.app/databases/google_app_measurement_local.db-shm
+/data/user/0/co.luckies.app/databases/google_app_measurement_local.db-wal
+/data/user/0/co.luckies.app/databases/mbridge.msdk.db-journal
+/data/user/0/co.luckies.app/databases/mbridge.msdk.db-shm
+/data/user/0/co.luckies.app/databases/mbridge.msdk.db-wal
+/data/user/0/co.luckies.app/databases/pag_monitor.db-journal
+/data/user/0/co.luckies.app/databases/track_manager_metrics_sdk.db-journal
+/data/user/0/co.luckies.app/databases/track_manager_monitor.db-journal
+/data/user/0/co.luckies.app/databases/track_manager_monitor.db-shm
+/data/user/0/co.luckies.app/databases/track_manager_monitor.db-wal
+/data/user/0/co.luckies.app/databases/ttopensdk.db-journal
+/data/user/0/co.luckies.app/files
+/data/user/0/co.luckies.app/files/.com.google.firebase.crashlytics
+/data/user/0/co.luckies.app/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/co.luckies.app/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/crash_marker
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/initialization_marker
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/native-reports
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/open-sessions
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/open-sessions/<session>
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/open-sessions/<session>/aqs.<md5>
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/open-sessions/<session>/internal-keys
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/open-sessions/<session>/report
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/open-sessions/<session>/start-time
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/open-sessions/<session>/userlog
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/priority-reports
+/data/user/0/co.luckies.app/files/.crashlytics.v3/co.luckies.app/reports
+/data/user/0/co.luckies.app/files/.gms-dynamite-code-cache
+/data/user/0/co.luckies.app/files/AppEventsLogger.persistedevents
+/data/user/0/co.luckies.app/files/apminsight/TrackInfo/<number>
+/data/user/0/co.luckies.app/files/apminsight/TrackInfo/<number>/<apminsight_id>
+/data/user/0/co.luckies.app/files/datastore
+/data/user/0/co.luckies.app/files/encrypt_statistics_file
+/data/user/0/co.luckies.app/files/oat
+/data/user/0/co.luckies.app/files/phenotype/shared
+/data/user/0/co.luckies.app/files/phenotype/shared/com.google.android.gms.clearcut_client#co.luckies.app.pb
+/data/user/0/co.luckies.app/files/phenotype_storage_info/shared
+/data/user/0/co.luckies.app/files/phenotype_storage_info/shared/storage-info.pb.mobstore_tmp-<number>-<number>-<number>-<number>
+/data/user/0/co.luckies.app/no_backup
+/data/user/0/co.luckies.app/no_backup/androidx.work.workdb-journal
+/data/user/0/co.luckies.app/no_backup/settings_vungle
+/data/user/0/co.luckies.app/no_backup/unclosed_ad
+/data/user/0/co.luckies.app/shared_prefs
+/data/user_de/0/co.luckies.app
+/data/user_de/0/co.luckies.app/app_webview_co.luckies.app
+/data/user_de/0/co.luckies.app/cache/webview_co.luckies.app
+/data/user_de/0/co.luckies.app/code_cache
+/data/user_de/0/co.luckies.app/files
+/data/user_de/0/co.luckies.app/files/phenotype_storage_info/shared/device-encrypted-storage-info.pb
+/data/user_de/0/co.luckies.app/files/phenotype_storage_info/shared/device-encrypted-storage-info.pb.mobstore_tmp-<number>-<number>-<number>-<number>
+/data/user_de/0/co.luckies.app/shared_prefs
+/sdcard/Android/data/co.luckies.app
+/sdcard/Android/data/co.luckies.app/cache
+/sdcard/Android/data/co.luckies.app/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/co.luckies.app/cache
+/storage/emulated/0/Android/data/co.luckies.app/files
