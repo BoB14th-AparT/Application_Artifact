@@ -1,0 +1,183 @@
+﻿Path
+/data/app/com.allfiles.viewerer-<base64>
+/data/app/com.allfiles.viewerer-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.allfiles.viewerer-<base64>/lib/arm64
+/data/app/com.allfiles.viewerer-<base64>/oat/arm64
+/data/app/com.allfiles.viewerer-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.allfiles.viewerer-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/misc/profiles/cur/0/com.allfiles.viewerer
+/data/misc/profiles/ref/com.allfiles.viewerer
+/data/user/0/com.allfiles.viewerer
+/data/user/0/com.allfiles.viewerer/app_optimized
+/data/user/0/com.allfiles.viewerer/app_pccache
+/data/user/0/com.allfiles.viewerer/app_pccache/<number>
+/data/user/0/com.allfiles.viewerer/app_pccache/<number>/<sha1>
+/data/user/0/com.allfiles.viewerer/app_pccache/<number>/<sha1>/oat
+/data/user/0/com.allfiles.viewerer/app_pccache/<number>/<sha1>/pcam.jar!
+/data/user/0/com.allfiles.viewerer/app_pccache/<number>/<sha1>/pcopt
+/data/user/0/com.allfiles.viewerer/app_textures
+/data/user/0/com.allfiles.viewerer/app_tmppccache
+/data/user/0/com.allfiles.viewerer/app_webview
+/data/user/0/com.allfiles.viewerer/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.allfiles.viewerer/app_webview/BrowserMetrics
+/data/user/0/com.allfiles.viewerer/app_webview/Default
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Local Storage
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Local Storage/leveldb
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Local Storage/leveldb/<number>.ldb
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/com.allfiles.viewerer/app_webview/Default/PersistentOriginTrials
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Session Storage
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Session Storage/CURRENT
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Session Storage/LOCK
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Session Storage/LOG
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Shared Dictionary
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Shared Dictionary/cache
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Shared Dictionary/db
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/com.allfiles.viewerer/app_webview/Default/VideoDecodeStats
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Web Data
+/data/user/0/com.allfiles.viewerer/app_webview/Default/Web Data-journal
+/data/user/0/com.allfiles.viewerer/app_webview/Default/blob_storage
+/data/user/0/com.allfiles.viewerer/app_webview/Default/blob_storage/<uuid>
+/data/user/0/com.allfiles.viewerer/app_webview/Default/shared_proto_db
+/data/user/0/com.allfiles.viewerer/app_webview/Default/shared_proto_db/MANIFEST-<number>
+/data/user/0/com.allfiles.viewerer/app_webview/Default/shared_proto_db/metadata
+/data/user/0/com.allfiles.viewerer/app_webview/Default/shared_proto_db/metadata/<number>.ldb
+/data/user/0/com.allfiles.viewerer/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>
+/data/user/0/com.allfiles.viewerer/app_webview_com.allfiles.viewerer
+/data/user/0/com.allfiles.viewerer/cache
+/data/user/0/com.allfiles.viewerer/cache/WebView
+/data/user/0/com.allfiles.viewerer/cache/WebView/Crash Reports
+/data/user/0/com.allfiles.viewerer/cache/WebView/Crashpad
+/data/user/0/com.allfiles.viewerer/cache/WebView/Crashpad/attachments
+/data/user/0/com.allfiles.viewerer/cache/WebView/Crashpad/completed
+/data/user/0/com.allfiles.viewerer/cache/WebView/Crashpad/new
+/data/user/0/com.allfiles.viewerer/cache/WebView/Crashpad/pending
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/com.allfiles.viewerer/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/com.allfiles.viewerer/cache/WebView/SafeBrowsing
+/data/user/0/com.allfiles.viewerer/cache/data/user/<number>/com.allfiles.viewerer/no_backup
+/data/user/0/com.allfiles.viewerer/cache/instrument
+/data/user/0/com.allfiles.viewerer/cache/playable
+/data/user/0/com.allfiles.viewerer/cache/playable/common
+/data/user/0/com.allfiles.viewerer/cache/playable/games
+/data/user/0/com.allfiles.viewerer/cache/playable/pregames
+/data/user/0/com.allfiles.viewerer/cache/tt_ad
+/data/user/0/com.allfiles.viewerer/cache/tt_ad//music
+/data/user/0/com.allfiles.viewerer/cache/tt_ad/music
+/data/user/0/com.allfiles.viewerer/cache/tt_ad/video_brand
+/data/user/0/com.allfiles.viewerer/cache/tt_ad/video_default
+/data/user/0/com.allfiles.viewerer/cache/tt_ad/video_reward_full
+/data/user/0/com.allfiles.viewerer/cache/tt_ad/video_splash
+/data/user/0/com.allfiles.viewerer/cache/tt_tmpl_pkg
+/data/user/0/com.allfiles.viewerer/cache/tt_tmpl_pkg/template
+/data/user/0/com.allfiles.viewerer/cache/volley
+/data/user/0/com.allfiles.viewerer/cache/webview_com.allfiles.viewerer
+/data/user/0/com.allfiles.viewerer/code_cache
+/data/user/0/com.allfiles.viewerer/databases
+/data/user/0/com.allfiles.viewerer/databases/androidx.work.workdb
+/data/user/0/com.allfiles.viewerer/databases/com.allfiles.viewerer.config-journal
+/data/user/0/com.allfiles.viewerer/databases/com.allfiles.viewerer.event-journal
+/data/user/0/com.allfiles.viewerer/databases/com.allfiles.viewerer.pdf-journal
+/data/user/0/com.allfiles.viewerer/databases/com.allfiles.viewerer.request-journal
+/data/user/0/com.allfiles.viewerer/databases/com.allfiles.viewerer.trash-journal
+/data/user/0/com.allfiles.viewerer/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.allfiles.viewerer/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.allfiles.viewerer/databases/google_app_measurement_local.db-shm
+/data/user/0/com.allfiles.viewerer/databases/google_app_measurement_local.db-wal
+/data/user/0/com.allfiles.viewerer/databases/pag_monitor.db-shm
+/data/user/0/com.allfiles.viewerer/databases/pag_monitor.db-wal
+/data/user/0/com.allfiles.viewerer/databases/thinkup.db-shm
+/data/user/0/com.allfiles.viewerer/databases/thinkup.db-wal
+/data/user/0/com.allfiles.viewerer/databases/ttopensdk.db-shm
+/data/user/0/com.allfiles.viewerer/databases/ttopensdk.db-wal
+/data/user/0/com.allfiles.viewerer/files
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/crash_marker
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/initialization_marker
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/native-reports
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/open-sessions
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/open-sessions/<session>
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/open-sessions/<session>/aqs.<md5>
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/open-sessions/<session>/report
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/open-sessions/<session>/start-time
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/open-sessions/<session>/userlog
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/priority-reports
+/data/user/0/com.allfiles.viewerer/files/.com.google.firebase.crashlytics.files.v2:com.allfiles.viewerer/reports
+/data/user/0/com.allfiles.viewerer/files/.gms-dynamite-code-cache
+/data/user/0/com.allfiles.viewerer/files/AppEventsLogger.persistedevents
+/data/user/0/com.allfiles.viewerer/files/TTCache
+/data/user/0/com.allfiles.viewerer/files/apminsight/TrackInfo/<number>
+/data/user/0/com.allfiles.viewerer/files/apminsight/TrackInfo/<number>/<apminsight_id>
+/data/user/0/com.allfiles.viewerer/files/apminsight/TrackInfo/<number>/c2d2b78da974bffG
+/data/user/0/com.allfiles.viewerer/files/datastore
+/data/user/0/com.allfiles.viewerer/files/debuglogs
+/data/user/0/com.allfiles.viewerer/files/libso
+/data/user/0/com.allfiles.viewerer/files/log
+/data/user/0/com.allfiles.viewerer/files/log/thinkup_temp_log
+/data/user/0/com.allfiles.viewerer/files/oat
+/data/user/0/com.allfiles.viewerer/files/phenotype_storage_info/shared
+/data/user/0/com.allfiles.viewerer/files/sp_global_app_id
+/data/user/0/com.allfiles.viewerer/files/sp_global_icon_id
+/data/user/0/com.allfiles.viewerer/files/sp_global_privacy
+/data/user/0/com.allfiles.viewerer/files/sp_multi_ttadnet_config
+/data/user/0/com.allfiles.viewerer/files/thinkup.test
+/data/user/0/com.allfiles.viewerer/files/thinkup_omsdk
+/data/user/0/com.allfiles.viewerer/files/thinkup_omsdk/
+/data/user/0/com.allfiles.viewerer/files/tktp
+/data/user/0/com.allfiles.viewerer/files/tktp/thinkup_placement_strategy_update_check
+/data/user/0/com.allfiles.viewerer/files/tt_set_mediation.prop
+/data/user/0/com.allfiles.viewerer/lib
+/data/user/0/com.allfiles.viewerer/no_backup
+/data/user/0/com.allfiles.viewerer/no_backup/androidx.work.workdb-journal
+/data/user/0/com.allfiles.viewerer/no_backup/failedGenericTpats
+/data/user/0/com.allfiles.viewerer/no_backup/failedTpats
+/data/user/0/com.allfiles.viewerer/no_backup/unclosed_ad
+/data/user/0/com.allfiles.viewerer/no_backup/vungle_cache
+/data/user/0/com.allfiles.viewerer/no_backup/vungle_cache/clever_cache
+/data/user/0/com.allfiles.viewerer/no_backup/vungle_cache/downloads
+/data/user/0/com.allfiles.viewerer/no_backup/vungle_cache/js
+/data/user/0/com.allfiles.viewerer/no_backup/vungle_cache/js/mraid_5_3_0
+/data/user/0/com.allfiles.viewerer/shared_prefs
+/data/user_de/0/com.allfiles.viewerer
+/data/user_de/0/com.allfiles.viewerer/app_webview_com.allfiles.viewerer
+/data/user_de/0/com.allfiles.viewerer/cache/webview_com.allfiles.viewerer
+/data/user_de/0/com.allfiles.viewerer/code_cache
+/data/user_de/0/com.allfiles.viewerer/shared_prefs
+/sdcard/Android/data/com.allfiles.viewerer
+/sdcard/Android/data/com.allfiles.viewerer/files
+/storage/emulated/0/Android/data/com.allfiles.viewerer
+/storage/emulated/0/Android/data/com.allfiles.viewerer/files
+/storage/emulated/0/Android/data/com.allfiles.viewerer/files/<uuid>
+/storage/emulated/0/Android/data/com.allfiles.viewerer/files/thinkup.test
+/storage/emulated/0/Android/data/com.allfiles.viewerer/files/thinkup_internal_html_resouce
+/storage/emulated/0/Android/data/com.allfiles.viewerer/files/thinkup_internal_resouce
+\data\misc\profiles\cur\0\com.allfiles.viewerer
+\data\user\0\com.allfiles.viewerer\app_webview\BrowserMetrics
+\data\user\0\com.allfiles.viewerer\files\phenotype\shared

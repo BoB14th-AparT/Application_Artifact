@@ -1,0 +1,122 @@
+﻿Path
+/data/app/yducky.application.babytime-<base64>
+/data/app/yducky.application.babytime-<base64>/base.apk!/lib/arm64-v8a
+/data/app/yducky.application.babytime-<base64>/lib/arm64
+/data/app/yducky.application.babytime-<base64>/oat/arm64
+/data/misc/gpu
+/data/misc/profiles/cur/0/yducky.application.babytime
+/data/user/0/yducky.application.babytime
+/data/user/0/yducky.application.babytime/app_pccache
+/data/user/0/yducky.application.babytime/app_pccache/<number>
+/data/user/0/yducky.application.babytime/app_pccache/<number>/<sha1>
+/data/user/0/yducky.application.babytime/app_pccache/<number>/<sha1>/oat
+/data/user/0/yducky.application.babytime/app_pccache/<number>/<sha1>/pcopt
+/data/user/0/yducky.application.babytime/app_textures
+/data/user/0/yducky.application.babytime/app_tmppccache
+/data/user/0/yducky.application.babytime/app_webview
+/data/user/0/yducky.application.babytime/app_webview/BrowserMetrics
+/data/user/0/yducky.application.babytime/app_webview/Default
+/data/user/0/yducky.application.babytime/app_webview/Default/Local Storage
+/data/user/0/yducky.application.babytime/app_webview/Default/Local Storage/leveldb
+/data/user/0/yducky.application.babytime/app_webview/Default/Local Storage/leveldb/<number>.ldb
+/data/user/0/yducky.application.babytime/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/yducky.application.babytime/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/yducky.application.babytime/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/yducky.application.babytime/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/yducky.application.babytime/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/yducky.application.babytime/app_webview/Default/PersistentOriginTrials
+/data/user/0/yducky.application.babytime/app_webview/Default/Session Storage
+/data/user/0/yducky.application.babytime/app_webview/Default/Session Storage/CURRENT
+/data/user/0/yducky.application.babytime/app_webview/Default/Session Storage/LOCK
+/data/user/0/yducky.application.babytime/app_webview/Default/Session Storage/LOG
+/data/user/0/yducky.application.babytime/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/yducky.application.babytime/app_webview/Default/Shared Dictionary
+/data/user/0/yducky.application.babytime/app_webview/Default/Shared Dictionary/cache
+/data/user/0/yducky.application.babytime/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/yducky.application.babytime/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/yducky.application.babytime/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/yducky.application.babytime/app_webview/Default/Shared Dictionary/db
+/data/user/0/yducky.application.babytime/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/yducky.application.babytime/app_webview/Default/Web Data
+/data/user/0/yducky.application.babytime/app_webview/Default/Web Data-journal
+/data/user/0/yducky.application.babytime/app_webview/Default/WebStorage
+/data/user/0/yducky.application.babytime/app_webview/Default/blob_storage
+/data/user/0/yducky.application.babytime/app_webview/Default/blob_storage/<uuid>
+/data/user/0/yducky.application.babytime/app_webview/Default/shared_proto_db
+/data/user/0/yducky.application.babytime/app_webview/Default/shared_proto_db/metadata
+/data/user/0/yducky.application.babytime/app_webview_yducky.application.babytime
+/data/user/0/yducky.application.babytime/cache
+/data/user/0/yducky.application.babytime/cache/WebView
+/data/user/0/yducky.application.babytime/cache/WebView/Crash Reports
+/data/user/0/yducky.application.babytime/cache/WebView/Crashpad
+/data/user/0/yducky.application.babytime/cache/WebView/Crashpad/attachments
+/data/user/0/yducky.application.babytime/cache/WebView/Crashpad/completed
+/data/user/0/yducky.application.babytime/cache/WebView/Crashpad/new
+/data/user/0/yducky.application.babytime/cache/WebView/Crashpad/pending
+/data/user/0/yducky.application.babytime/cache/WebView/Default
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/yducky.application.babytime/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/yducky.application.babytime/cache/WebView/SafeBrowsing
+/data/user/0/yducky.application.babytime/cache/com.kakao.adfit.cache
+/data/user/0/yducky.application.babytime/cache/image_manager_disk_cache
+/data/user/0/yducky.application.babytime/cache/webview_yducky.application.babytime
+/data/user/0/yducky.application.babytime/databases
+/data/user/0/yducky.application.babytime/databases/activity_record.db-shm
+/data/user/0/yducky.application.babytime/databases/activity_record.db-wal
+/data/user/0/yducky.application.babytime/databases/androidx.work.workdb
+/data/user/0/yducky.application.babytime/databases/com.google.android.datatransport.events-shm
+/data/user/0/yducky.application.babytime/databases/com.google.android.datatransport.events-wal
+/data/user/0/yducky.application.babytime/databases/google_app_measurement_local.db-shm
+/data/user/0/yducky.application.babytime/databases/google_app_measurement_local.db-wal
+/data/user/0/yducky.application.babytime/files
+/data/user/0/yducky.application.babytime/files/.com.google.firebase.crashlytics
+/data/user/0/yducky.application.babytime/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/yducky.application.babytime/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/crash_marker
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/initialization_marker
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/native-reports
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/open-sessions
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/open-sessions/<session>
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/open-sessions/<session>/aqs.<md5>
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/open-sessions/<session>/internal-keys
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/open-sessions/<session>/keys
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/open-sessions/<session>/report
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/open-sessions/<session>/start-time
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/open-sessions/<session>/user-data
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/open-sessions/<session>/userlog
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/priority-reports
+/data/user/0/yducky.application.babytime/files/.crashlytics.v3/yducky.application.babytime/reports
+/data/user/0/yducky.application.babytime/files/.gms-dynamite-code-cache
+/data/user/0/yducky.application.babytime/files/baby_time
+/data/user/0/yducky.application.babytime/files/datastore
+/data/user/0/yducky.application.babytime/files/phenotype/shared
+/data/user/0/yducky.application.babytime/files/phenotype_storage_info/shared
+/data/user/0/yducky.application.babytime/lib
+/data/user/0/yducky.application.babytime/no_backup
+/data/user/0/yducky.application.babytime/no_backup/androidx.work.workdb-journal
+/data/user/0/yducky.application.babytime/shared_prefs
+/data/user_de/0/yducky.application.babytime
+/data/user_de/0/yducky.application.babytime/app_webview_yducky.application.babytime
+/data/user_de/0/yducky.application.babytime/cache/webview_yducky.application.babytime
+/data/user_de/0/yducky.application.babytime/code_cache
+/data/user_de/0/yducky.application.babytime/shared_prefs
+/sdcard/Android/data/yducky.application.babytime
+/sdcard/Android/data/yducky.application.babytime/cache
+/sdcard/Android/data/yducky.application.babytime/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/yducky.application.babytime/cache
+/storage/emulated/0/Android/data/yducky.application.babytime/files
+\data\user\0\yducky.application.babytime\cache\image_manager_disk_cache

@@ -1,0 +1,138 @@
+﻿Path
+/data/app/ci.dvn.composecoffee.app-<base64>
+/data/app/ci.dvn.composecoffee.app-<base64>/base.apk!/lib/arm64-v8a
+/data/app/ci.dvn.composecoffee.app-<base64>/lib/arm64
+/data/app/ci.dvn.composecoffee.app-<base64>/lib/arm64-v8a
+/data/app/ci.dvn.composecoffee.app-<base64>/oat/arm64
+/data/app/ci.dvn.composecoffee.app-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/ci.dvn.composecoffee.app-<base64>/split_config.ko.apk!/lib/arm64-v8a
+/data/app/ci.dvn.composecoffee.app-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/app/com.google.android.webview-3zKH8cMA6Wg-<base64>/lib/arm64
+/data/app/com.google.android.webview-3zKH8cMA6Wg-<base64>/oat/arm64/base.odex
+/data/misc/profiles/cur/0/ci.dvn.composecoffee.app
+/data/user/0/ci.dvn.composecoffee.app
+/data/user/0/ci.dvn.composecoffee.app/app_webview
+/data/user/0/ci.dvn.composecoffee.app/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/ci.dvn.composecoffee.app/app_webview/BrowserMetrics
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Local Storage
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Local Storage/leveldb
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/PersistentOriginTrials
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Session Storage
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Session Storage/CURRENT
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Session Storage/LOCK
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Session Storage/LOG
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Shared Dictionary
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Shared Dictionary/cache
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Shared Dictionary/db
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Web Data
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/Web Data-journal
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/blob_storage
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/blob_storage/<uuid>
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/shared_proto_db
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/shared_proto_db/MANIFEST-<number>
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/shared_proto_db/metadata
+/data/user/0/ci.dvn.composecoffee.app/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>
+/data/user/0/ci.dvn.composecoffee.app/app_webview_ci.dvn.composecoffee.app
+/data/user/0/ci.dvn.composecoffee.app/cache
+/data/user/0/ci.dvn.composecoffee.app/cache/.clipboard
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Crash Reports
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Crashpad
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Crashpad/attachments
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Crashpad/completed
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Crashpad/new
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Crashpad/pending
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/ci.dvn.composecoffee.app/cache/WebView/SafeBrowsing
+/data/user/0/ci.dvn.composecoffee.app/cache/data/user/<number>/ci.dvn.composecoffee.app/no_backup
+/data/user/0/ci.dvn.composecoffee.app/cache/http-cache
+/data/user/0/ci.dvn.composecoffee.app/cache/image_manager_disk_cache
+/data/user/0/ci.dvn.composecoffee.app/cache/sentry
+/data/user/0/ci.dvn.composecoffee.app/cache/sentry/<sha1>
+/data/user/0/ci.dvn.composecoffee.app/cache/sentry/<sha1>/.scope-cache
+/data/user/0/ci.dvn.composecoffee.app/cache/sentry/<sha1>/<uuid>.envelope
+/data/user/0/ci.dvn.composecoffee.app/cache/sentry/app_start_profiling_config
+/data/user/0/ci.dvn.composecoffee.app/cache/webview_ci.dvn.composecoffee.app
+/data/user/0/ci.dvn.composecoffee.app/databases
+/data/user/0/ci.dvn.composecoffee.app/databases/androidx.work.workdb
+/data/user/0/ci.dvn.composecoffee.app/databases/com.google.android.datatransport.events-shm
+/data/user/0/ci.dvn.composecoffee.app/databases/com.google.android.datatransport.events-wal
+/data/user/0/ci.dvn.composecoffee.app/files
+/data/user/0/ci.dvn.composecoffee.app/files/.com.google.firebase.crashlytics
+/data/user/0/ci.dvn.composecoffee.app/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/ci.dvn.composecoffee.app/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/.ae1766010453272
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/.ae1766010803886
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/.ae1766011117308
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/crash_marker
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/initialization_marker
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/native-reports
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions/<session>
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions/<session>/aqs.<md5>
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions/<session>/event<crash_event_seq>_
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions/<session>/internal-keys
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions/<session>/native
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions/<session>/native/pending
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions/<session>/report
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions/<session>/start-time
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions/<session>/user-data
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/open-sessions/<session>/userlog
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/priority-reports
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/priority-reports/<md5>
+/data/user/0/ci.dvn.composecoffee.app/files/.crashlytics.v3/ci.dvn.composecoffee.app/reports
+/data/user/0/ci.dvn.composecoffee.app/files/datastore
+/data/user/0/ci.dvn.composecoffee.app/files/phenotype_storage_info/shared
+/data/user/0/ci.dvn.composecoffee.app/no_backup
+/data/user/0/ci.dvn.composecoffee.app/no_backup/androidx.work.workdb-journal
+/data/user/0/ci.dvn.composecoffee.app/shared_prefs
+/data/user_de/0/ci.dvn.composecoffee.app
+/data/user_de/0/ci.dvn.composecoffee.app/app_webview_ci.dvn.composecoffee.app
+/data/user_de/0/ci.dvn.composecoffee.app/cache/webview_ci.dvn.composecoffee.app
+/data/user_de/0/ci.dvn.composecoffee.app/code_cache
+/data/user_de/0/ci.dvn.composecoffee.app/shared_prefs
+/sdcard/Android/data/ci.dvn.composecoffee.app
+/sdcard/Android/data/ci.dvn.composecoffee.app/cache
+/sdcard/Android/data/ci.dvn.composecoffee.app/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/ci.dvn.composecoffee.app/cache
+/storage/emulated/0/Android/data/ci.dvn.composecoffee.app/files
+\data\app\ci.dvn.composecoffee.app-<base64>\split_config.arm64_v8a.apk!\lib\arm64-v8a
+\data\misc\profiles\cur\0\ci.dvn.composecoffee.app
+\data\user\0\ci.dvn.composecoffee.app\app_webview\BrowserMetrics
+\data\user\0\ci.dvn.composecoffee.app\files\phenotype\shared

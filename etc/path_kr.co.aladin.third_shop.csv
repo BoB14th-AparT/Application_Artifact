@@ -1,0 +1,138 @@
+﻿Path
+/data/app/kr.co.aladin.third_shop-<base64>
+/data/app/kr.co.aladin.third_shop-<base64>/base.apk!/lib/arm64-v8a
+/data/app/kr.co.aladin.third_shop-<base64>/lib/arm64
+/data/app/kr.co.aladin.third_shop-<base64>/oat/arm64
+/data/app/kr.co.aladin.third_shop-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/kr.co.aladin.third_shop-<base64>/split_config.ko.apk!/lib/arm64-v8a
+/data/app/kr.co.aladin.third_shop-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/data/kr.co.aladin.third_shop
+/data/data/kr.co.aladin.third_shop/app_webview/Default
+/data/misc/profiles/cur/0/kr.co.aladin.third_shop
+/data/user/0/kr.co.aladin.third_shop
+/data/user/0/kr.co.aladin.third_shop/app_textures
+/data/user/0/kr.co.aladin.third_shop/app_webview
+/data/user/0/kr.co.aladin.third_shop/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/kr.co.aladin.third_shop/app_webview/BrowserMetrics
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Local Storage
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Local Storage/leveldb
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Local Storage/leveldb/<number>.ldb
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/PersistentOriginTrials
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/Database
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/Database/<number>.ldb
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/Database/CURRENT
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/Database/LOCK
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/Database/LOG
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/Database/LOG.old
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/Database/MANIFEST-<number>
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/ScriptCache
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_0
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/ScriptCache/<cache_entry_hex16>_1
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/ScriptCache/index
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/ScriptCache/index-dir
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Service Worker/ScriptCache/index-dir/the-real-index
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Session Storage
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Session Storage/CURRENT
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Session Storage/LOCK
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Session Storage/LOG
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Shared Dictionary
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Shared Dictionary/cache
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Shared Dictionary/db
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Web Data
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/Web Data-journal
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/WebStorage
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/blob_storage
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/blob_storage/<uuid>
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/shared_proto_db
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/shared_proto_db/MANIFEST-<number>
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/shared_proto_db/metadata
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/shared_proto_db/metadata/<number>.ldb
+/data/user/0/kr.co.aladin.third_shop/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>
+/data/user/0/kr.co.aladin.third_shop/app_webview_kr.co.aladin.third_shop
+/data/user/0/kr.co.aladin.third_shop/cache
+/data/user/0/kr.co.aladin.third_shop/cache/WebView
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/.com.google.Chrome.<webview_profile>
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Crash Reports
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Crashpad
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Crashpad/attachments
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Crashpad/completed
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Crashpad/new
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Crashpad/pending
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Crashpad/pending/<uuid>.dmp
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Crashpad/pending/<uuid>.meta
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/kr.co.aladin.third_shop/cache/WebView/SafeBrowsing
+/data/user/0/kr.co.aladin.third_shop/cache/image_manager_disk_cache
+/data/user/0/kr.co.aladin.third_shop/cache/webview_kr.co.aladin.third_shop
+/data/user/0/kr.co.aladin.third_shop/databases
+/data/user/0/kr.co.aladin.third_shop/databases/com.google.android.datatransport.events-shm
+/data/user/0/kr.co.aladin.third_shop/databases/com.google.android.datatransport.events-wal
+/data/user/0/kr.co.aladin.third_shop/databases/google_app_measurement_local.db-shm
+/data/user/0/kr.co.aladin.third_shop/databases/google_app_measurement_local.db-wal
+/data/user/0/kr.co.aladin.third_shop/files
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/.ae<number>
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/crash_marker
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/initialization_marker
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/native-reports
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/open-sessions
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/open-sessions/<session>
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/open-sessions/<session>/aqs.<md5>
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/open-sessions/<session>/event<crash_event_seq>
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/open-sessions/<session>/event<crash_event_seq>_
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/open-sessions/<session>/report
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/open-sessions/<session>/start-time
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/open-sessions/<session>/user-data
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/open-sessions/<session>/userlog
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/priority-reports
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/priority-reports/<md5>
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/reports
+/data/user/0/kr.co.aladin.third_shop/files/.com.google.firebase.crashlytics.files.v2:kr.co.aladin.third_shop/reports/<md5>
+/data/user/0/kr.co.aladin.third_shop/files/.gms-dynamite-code-cache
+/data/user/0/kr.co.aladin.third_shop/files/datastore
+/data/user/0/kr.co.aladin.third_shop/files/phenotype_storage_info/shared
+/data/user/0/kr.co.aladin.third_shop/no_backup
+/data/user/0/kr.co.aladin.third_shop/shared_prefs
+/data/user_de/0/kr.co.aladin.third_shop
+/data/user_de/0/kr.co.aladin.third_shop/app_webview_kr.co.aladin.third_shop
+/data/user_de/0/kr.co.aladin.third_shop/cache/webview_kr.co.aladin.third_shop
+/data/user_de/0/kr.co.aladin.third_shop/code_cache
+/data/user_de/0/kr.co.aladin.third_shop/shared_prefs
+/sdcard/Android/data/kr.co.aladin.third_shop
+/sdcard/Android/data/kr.co.aladin.third_shop/cache
+/sdcard/Android/data/kr.co.aladin.third_shop/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/kr.co.aladin.third_shop/cache
+/storage/emulated/0/Android/data/kr.co.aladin.third_shop/files
+\data\misc\profiles\cur\0\kr.co.aladin.third_shop
+\data\user\0\kr.co.aladin.third_shop\app_webview\BrowserMetrics
+\data\user\0\kr.co.aladin.third_shop\files\phenotype\shared
