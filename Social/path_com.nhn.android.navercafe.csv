@@ -1,0 +1,62 @@
+﻿Path
+/data/app/com.nhn.android.navercafe-<base64>
+/data/app/com.nhn.android.navercafe-<base64>/base.apk!/lib
+/data/app/com.nhn.android.navercafe-<base64>/lib/arm64
+/data/app/com.nhn.android.navercafe-<base64>/oat/arm64
+/data/app/com.nhn.android.navercafe-<base64>/split_config.arm64_v8a.apk!/lib
+/data/app/com.nhn.android.navercafe-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.nhn.android.navercafe-<base64>/split_config.ko.apk!/lib
+/data/app/com.nhn.android.navercafe-<base64>/split_config.xxhdpi.apk!/lib
+/data/data/com.nhn.android.navercafe/app_webview
+/data/data/com.nhn.android.navercafe/app_webview/Default
+/data/data/com.nhn.android.navercafe/system/lib64
+/data/misc/profiles/cur/0
+/data/misc/profiles/cur/0/com.nhn.android.navercafe
+/data/misc/profiles/ref/com.nhn.android.navercafe
+/data/user/0/com.nhn.android.navercafe
+/data/user/0/com.nhn.android.navercafe/app_textures
+/data/user/0/com.nhn.android.navercafe/app_webview
+/data/user/0/com.nhn.android.navercafe/app_webview/BrowserMetrics
+/data/user/0/com.nhn.android.navercafe/app_xwhale
+/data/user/0/com.nhn.android.navercafe/app_xwhale/Default
+/data/user/0/com.nhn.android.navercafe/app_xwhale/Default/Session Storage
+/data/user/0/com.nhn.android.navercafe/cache
+/data/user/0/com.nhn.android.navercafe/cache/NaverAdsServices
+/data/user/0/com.nhn.android.navercafe/cache/XWhale/Default/HTTP Cache
+/data/user/0/com.nhn.android.navercafe/cache/XWhale/Default/HTTP Cache/Cache_Data
+/data/user/0/com.nhn.android.navercafe/cache/XWhale/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/com.nhn.android.navercafe/cache/XWhale/Default/HTTP Cache/Code Cache/js
+/data/user/0/com.nhn.android.navercafe/cache/XWhale/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/com.nhn.android.navercafe/cache/XWhale/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/com.nhn.android.navercafe/cache/api_cache
+/data/user/0/com.nhn.android.navercafe/cache/api_preload
+/data/user/0/com.nhn.android.navercafe/cache/data/user/<number>/com.nhn.android.navercafe/no_backup
+/data/user/0/com.nhn.android.navercafe/cache/image_cache
+/data/user/0/com.nhn.android.navercafe/cache/image_manager_disk_cache
+/data/user/0/com.nhn.android.navercafe/cache/volley
+/data/user/0/com.nhn.android.navercafe/cache/webview
+/data/user/0/com.nhn.android.navercafe/databases
+/data/user/0/com.nhn.android.navercafe/files
+/data/user/0/com.nhn.android.navercafe/files/.crashlytics.v3
+/data/user/0/com.nhn.android.navercafe/files/.crashlytics.v3/com.nhn.android.navercafe
+/data/user/0/com.nhn.android.navercafe/files/.crashlytics.v3/com.nhn.android.navercafe/open-sessions
+/data/user/0/com.nhn.android.navercafe/files/.crashlytics.v3/com.nhn.android.navercafe/open-sessions/<session>
+/data/user/0/com.nhn.android.navercafe/files/.crashlytics.v3/com.nhn.android.navercafe/priority-reports
+/data/user/0/com.nhn.android.navercafe/files/crashpad
+/data/user/0/com.nhn.android.navercafe/files/datastore
+/data/user/0/com.nhn.android.navercafe/files/nelolog
+/data/user/0/com.nhn.android.navercafe/files/nelolog/NELO_Default_cafe_app_android
+/data/user/0/com.nhn.android.navercafe/files/nelolog/P3018a9_se-android_1fbe8a46d869446c97a96f1661472a96
+/data/user/0/com.nhn.android.navercafe/files/phenotype/shared
+/data/user/0/com.nhn.android.navercafe/files/phenotype_storage_info/shared
+/data/user/0/com.nhn.android.navercafe/no_backup
+/data/user/0/com.nhn.android.navercafe/shared_prefs
+/data/user_de/0/com.nhn.android.navercafe
+/data/user_de/0/com.nhn.android.navercafe/code_cache
+/data/user_de/0/com.nhn.android.navercafe/shared_prefs
+/sdcard/Android/data/com.nhn.android.navercafe
+/sdcard/Android/data/com.nhn.android.navercafe/cache
+/sdcard/Android/data/com.nhn.android.navercafe/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.nhn.android.navercafe/cache
+/storage/emulated/0/Android/data/com.nhn.android.navercafe/files

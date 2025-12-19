@@ -1,0 +1,158 @@
+﻿Path
+/data/app/com.theres.theres-<base64>
+/data/app/com.theres.theres-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.theres.theres-<base64>/lib/arm64
+/data/app/com.theres.theres-<base64>/lib/arm64-v8a
+/data/app/com.theres.theres-<base64>/oat/arm64
+/data/app/com.theres.theres-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.theres.theres-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libc++_shared.so
+/data/app/com.theres.theres-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libreanimated.so
+/data/app/com.theres.theres-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/librnscreens.so
+/data/app/com.theres.theres-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libworklets.so
+/data/app/com.theres.theres-<base64>/split_config.ko.apk!/lib/arm64-v8a
+/data/app/com.theres.theres-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/misc/profiles/cur/0/com.theres.theres
+/data/misc/profiles/cur/0/com.theres.theres/config.arm64_v8a.split.prof
+/data/misc/profiles/cur/0/com.theres.theres/config.ko.split.prof
+/data/misc/profiles/cur/0/com.theres.theres/config.xxhdpi.split.prof
+/data/user/0/com.theres.theres
+/data/user/0/com.theres.theres/app_webview
+/data/user/0/com.theres.theres/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.theres.theres/app_webview/BrowserMetrics
+/data/user/0/com.theres.theres/app_webview/BrowserMetrics/BrowserMetrics-693F7E21-<number>.pma
+/data/user/0/com.theres.theres/app_webview/BrowserMetrics/BrowserMetrics-693F7E7A-6C7.pma
+/data/user/0/com.theres.theres/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma
+/data/user/0/com.theres.theres/app_webview/Default
+/data/user/0/com.theres.theres/app_webview/Default/Local Storage
+/data/user/0/com.theres.theres/app_webview/Default/Local Storage/leveldb
+/data/user/0/com.theres.theres/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/com.theres.theres/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/com.theres.theres/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/com.theres.theres/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/com.theres.theres/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/com.theres.theres/app_webview/Default/PersistentOriginTrials
+/data/user/0/com.theres.theres/app_webview/Default/Session Storage
+/data/user/0/com.theres.theres/app_webview/Default/Session Storage/<number>.dbtmp
+/data/user/0/com.theres.theres/app_webview/Default/Session Storage/CURRENT
+/data/user/0/com.theres.theres/app_webview/Default/Session Storage/LOCK
+/data/user/0/com.theres.theres/app_webview/Default/Session Storage/LOG
+/data/user/0/com.theres.theres/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/com.theres.theres/app_webview/Default/Shared Dictionary
+/data/user/0/com.theres.theres/app_webview/Default/Shared Dictionary/cache
+/data/user/0/com.theres.theres/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/com.theres.theres/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/com.theres.theres/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/com.theres.theres/app_webview/Default/Shared Dictionary/db
+/data/user/0/com.theres.theres/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/com.theres.theres/app_webview/Default/Web Data
+/data/user/0/com.theres.theres/app_webview/Default/Web Data-journal
+/data/user/0/com.theres.theres/app_webview/Default/blob_storage
+/data/user/0/com.theres.theres/app_webview/Default/blob_storage/<uuid>
+/data/user/0/com.theres.theres/app_webview/Default/shared_proto_db
+/data/user/0/com.theres.theres/app_webview/Default/shared_proto_db/MANIFEST-<number>
+/data/user/0/com.theres.theres/app_webview/Default/shared_proto_db/metadata
+/data/user/0/com.theres.theres/app_webview/Default/shared_proto_db/metadata/<number>.ldb
+/data/user/0/com.theres.theres/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>
+/data/user/0/com.theres.theres/app_webview_com.theres.theres
+/data/user/0/com.theres.theres/c
+/data/user/0/com.theres.theres/cache
+/data/user/0/com.theres.theres/cache/WebView
+/data/user/0/com.theres.theres/cache/WebView/.com.google.Chrome.<webview_profile>
+/data/user/0/com.theres.theres/cache/WebView/Crash Reports
+/data/user/0/com.theres.theres/cache/WebView/Crashpad
+/data/user/0/com.theres.theres/cache/WebView/Crashpad/attachments
+/data/user/0/com.theres.theres/cache/WebView/Crashpad/completed
+/data/user/0/com.theres.theres/cache/WebView/Crashpad/new
+/data/user/0/com.theres.theres/cache/WebView/Crashpad/pending
+/data/user/0/com.theres.theres/cache/WebView/Default
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/com.theres.theres/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/com.theres.theres/cache/WebView/SafeBrowsing
+/data/user/0/com.theres.theres/cache/com.google.android.gms.maps.volley
+/data/user/0/com.theres.theres/cache/com.google.android.gms.maps.volley/<number>
+/data/user/0/com.theres.theres/cache/data/user/<number>/com.theres.theres/no_backup
+/data/user/0/com.theres.theres/cache/http-cache
+/data/user/0/com.theres.theres/cache/http-cache/<md5>.<number>
+/data/user/0/com.theres.theres/cache/http-cache/<md5>.<number>.tmp
+/data/user/0/com.theres.theres/cache/image_manager_disk_cache
+/data/user/0/com.theres.theres/cache/image_manager_disk_cache/<sha256>.<number>
+/data/user/0/com.theres.theres/cache/image_manager_disk_cache/<sha256>.<number>.tmp
+/data/user/0/com.theres.theres/cache/image_manager_disk_cache/journal
+/data/user/0/com.theres.theres/cache/image_manager_disk_cache/journal.bkp
+/data/user/0/com.theres.theres/cache/instrument
+/data/user/0/com.theres.theres/cache/webview_com.theres.theres
+/data/user/0/com.theres.theres/databases
+/data/user/0/com.theres.theres/databases/airbridge.db-journal
+/data/user/0/com.theres.theres/databases/airbridge.db-shm
+/data/user/0/com.theres.theres/databases/airbridge.db-wal
+/data/user/0/com.theres.theres/databases/androidx.work.workdb
+/data/user/0/com.theres.theres/databases/com.amplitude.api-shm
+/data/user/0/com.theres.theres/databases/com.amplitude.api-wal
+/data/user/0/com.theres.theres/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.theres.theres/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.theres.theres/databases/google_app_measurement_local.db-shm
+/data/user/0/com.theres.theres/databases/google_app_measurement_local.db-wal
+/data/user/0/com.theres.theres/files
+/data/user/0/com.theres.theres/files/.com.google.firebase.crashlytics
+/data/user/0/com.theres.theres/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/com.theres.theres/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/.ae1765768404188
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/.ae1765768683707
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/.ae1765768718569
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/.ae1765769035839
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/.ae1765769370500
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/crash_marker
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/initialization_marker
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/native-reports
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>/aqs.<md5>
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>/event<crash_event_seq>_
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>/internal-keys
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>/keys
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>/native
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>/native/pending
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>/report
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>/start-time
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>/user-data
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/open-sessions/<session>/userlog
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/priority-reports
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/priority-reports/<md5>
+/data/user/0/com.theres.theres/files/.crashlytics.v3/com.theres.theres/reports
+/data/user/0/com.theres.theres/files/.gms-dynamite-code-cache
+/data/user/0/com.theres.theres/files/AppEventsLogger.persistedevents
+/data/user/0/com.theres.theres/files/DATA_ServerControlledParametersManager.data.v1.com.theres.theres
+/data/user/0/com.theres.theres/files/datastore
+/data/user/0/com.theres.theres/files/phenotype/shared
+/data/user/0/com.theres.theres/files/phenotype/shared/com.google.android.gms.clearcut_client#com.theres.theres.pb
+/data/user/0/com.theres.theres/files/phenotype_storage_info/shared
+/data/user/0/com.theres.theres/no_backup
+/data/user/0/com.theres.theres/no_backup/androidx.work.workdb-journal
+/data/user/0/com.theres.theres/shared_prefs
+/data/user/0/com.theres.theres/shared_prefs/com.facebook.internal.FEATURE_MANAGER.xml.bak
+/data/user/0/com.theres.theres/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml.bak
+/data/user_de/0/com.google.android.gms/app_chimera/m/<hex8>/oat/arm64/dl-MapsCoreDynamite.integ_<number>.odex
+/data/user_de/0/com.theres.theres
+/data/user_de/0/com.theres.theres/app_webview_com.theres.theres
+/data/user_de/0/com.theres.theres/cache/webview_com.theres.theres
+/data/user_de/0/com.theres.theres/code_cache
+/data/user_de/0/com.theres.theres/shared_prefs
+/sdcard/Android/data/com.theres.theres
+/sdcard/Android/data/com.theres.theres/cache
+/sdcard/Android/data/com.theres.theres/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.theres.theres/cache
+/storage/emulated/0/Android/data/com.theres.theres/files

@@ -1,0 +1,58 @@
+﻿Path
+/data/app/com.nianticlabs.campfire-<base64>
+/data/app/com.nianticlabs.campfire-<base64>/lib/arm64
+/data/app/com.nianticlabs.campfire-<base64>/oat/arm64
+/data/data/com.nianticlabs.campfire
+/data/data/com.nianticlabs.campfire/app_webview/Default
+/data/misc/gpu
+/data/misc/profiles/cur/0/com.nianticlabs.campfire
+/data/misc/profiles/cur/0/com.nianticlabs.campfire/config.ko.split.prof
+/data/misc/profiles/cur/0/com.nianticlabs.campfire/config.xxhdpi.split.prof
+/data/misc/profiles/ref/com.nianticlabs.campfire
+/data/user/0/com.nianticlabs.campfire
+/data/user/0/com.nianticlabs.campfire/app_textures
+/data/user/0/com.nianticlabs.campfire/app_webview
+/data/user/0/com.nianticlabs.campfire/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.nianticlabs.campfire/app_webview/BrowserMetrics
+/data/user/0/com.nianticlabs.campfire/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma
+/data/user/0/com.nianticlabs.campfire/app_webview/Default/Local Storage/leveldb
+/data/user/0/com.nianticlabs.campfire/app_webview/Default/Local Storage/leveldb/<number>.ldb
+/data/user/0/com.nianticlabs.campfire/cache
+/data/user/0/com.nianticlabs.campfire/cache/WebView
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index
+/data/user/0/com.nianticlabs.campfire/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index
+/data/user/0/com.nianticlabs.campfire/cache/data/user/<number>/com.nianticlabs.campfire/no_backup
+/data/user/0/com.nianticlabs.campfire/cache/instrument
+/data/user/0/com.nianticlabs.campfire/cache/volley
+/data/user/0/com.nianticlabs.campfire/databases
+/data/user/0/com.nianticlabs.campfire/databases/androidx.work.workdb
+/data/user/0/com.nianticlabs.campfire/files
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/AttrCache
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/AttrCache/<number>
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/ConversionsCache
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/ConversionsCache/<number>
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/OtherCache
+/data/user/0/com.nianticlabs.campfire/files/AFRequestCache/OtherCache/<number>
+/data/user/0/com.nianticlabs.campfire/files/phenotype/shared/com.google.android.gms.clearcut_client#com.nianticlabs.campfire.pb
+/data/user/0/com.nianticlabs.campfire/files/phenotype_storage_info/shared
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/chunks
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/css
+/data/user/0/com.nianticlabs.campfire/files/versions/JeaQ6QorNa/_next/static/media
+/data/user/0/com.nianticlabs.campfire/no_backup
+/data/user/0/com.nianticlabs.campfire/no_backup/androidx.work.workdb-journal
+/data/user/0/com.nianticlabs.campfire/shared_prefs
+/data/user_de/0/com.nianticlabs.campfire
+/data/user_de/0/com.nianticlabs.campfire/code_cache
+/sdcard/Android/data/com.nianticlabs.campfire
+/sdcard/Android/data/com.nianticlabs.campfire/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.nianticlabs.campfire/files

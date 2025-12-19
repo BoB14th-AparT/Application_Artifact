@@ -1,0 +1,139 @@
+﻿Path
+/data/app/com.widgetable.theme.android-<base64>
+/data/app/com.widgetable.theme.android-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.widgetable.theme.android-<base64>/lib/arm64
+/data/app/com.widgetable.theme.android-<base64>/oat/arm64
+/data/app/com.widgetable.theme.android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.widgetable.theme.android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libnms.so
+/data/app/com.widgetable.theme.android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a/libpglarmor.so
+/data/app/com.widgetable.theme.android-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/data
+/data/data/com.widgetable.theme.android/app_webview/Default
+/data/data/com.widgetable.theme.android/app_webview/Default/WebStorage
+/data/misc/profiles/cur/0/com.widgetable.theme.android
+/data/misc/profiles/cur/0/com.widgetable.theme.android/config.arm64_v8a.split.prof
+/data/misc/profiles/cur/0/com.widgetable.theme.android/config.xxhdpi.split.prof
+/data/user/0/com.widgetable.theme.android
+/data/user/0/com.widgetable.theme.android/app_pccache
+/data/user/0/com.widgetable.theme.android/app_tmppccache
+/data/user/0/com.widgetable.theme.android/app_webview
+/data/user/0/com.widgetable.theme.android/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.widgetable.theme.android/app_webview/BrowserMetrics
+/data/user/0/com.widgetable.theme.android/app_webview/BrowserMetrics/BrowserMetrics-<hex8>-<hex4>.pma
+/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB
+/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0
+/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob
+/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob/<number>
+/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.blob/<number>/<number>
+/data/user/0/com.widgetable.theme.android/app_webview/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb
+/data/user/0/com.widgetable.theme.android/app_webview/Default/Local Storage/leveldb
+/data/user/0/com.widgetable.theme.android/app_webview/Default/Local Storage/leveldb/<number>.ldb
+/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage
+/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage/<number>.dbtmp
+/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage/CURRENT
+/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage/LOCK
+/data/user/0/com.widgetable.theme.android/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/com.widgetable.theme.android/app_webview/Default/VideoDecodeStats
+/data/user/0/com.widgetable.theme.android/app_webview/Default/WebStorage
+/data/user/0/com.widgetable.theme.android/app_yqzdkcache/rbp/oat
+/data/user/0/com.widgetable.theme.android/cache
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index
+/data/user/0/com.widgetable.theme.android/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index
+/data/user/0/com.widgetable.theme.android/cache/image_cache
+/data/user/0/com.widgetable.theme.android/cache/image_cache/<sha256>.<number>
+/data/user/0/com.widgetable.theme.android/cache/image_cache/<sha256>.<number>.tmp
+/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache
+/data/user/0/com.widgetable.theme.android/cache/keyed_bitmap_cache/<sha256>.<number>
+/data/user/0/com.widgetable.theme.android/cache/pet_furniture
+/data/user/0/com.widgetable.theme.android/cache/tt_ad/image_p
+/data/user/0/com.widgetable.theme.android/cache/tt_ad/image_p/<md5>
+/data/user/0/com.widgetable.theme.android/cache/tt_ad/video_splash
+/data/user/0/com.widgetable.theme.android/databases
+/data/user/0/com.widgetable.theme.android/databases/google_app_measurement_local.db-shm
+/data/user/0/com.widgetable.theme.android/databases/google_app_measurement_local.db-wal
+/data/user/0/com.widgetable.theme.android/databases/npth_log.db
+/data/user/0/com.widgetable.theme.android/databases/supersonic_sdk.db-shm
+/data/user/0/com.widgetable.theme.android/databases/supersonic_sdk.db-wal
+/data/user/0/com.widgetable.theme.android/files
+/data/user/0/com.widgetable.theme.android/files/<number>/database
+/data/user/0/com.widgetable.theme.android/files/<number>/database/plant.db
+/data/user/0/com.widgetable.theme.android/files/<number>/page_cache
+/data/user/0/com.widgetable.theme.android/files/<number>/page_cache/<number>_key_cache_sleep_record__2025-<number>-10_2025-<number>-<number>.jsonon16.jsonon
+/data/user/0/com.widgetable.theme.android/files/al
+/data/user/0/com.widgetable.theme.android/files/apminsight/CrashCommonLog/<apminsight_id>/
+/data/user/0/com.widgetable.theme.android/files/apminsight/CrashLogNative/<apminsight_id>
+/data/user/0/com.widgetable.theme.android/files/apminsight/CrashLogNative/<apminsight_id>/
+/data/user/0/com.widgetable.theme.android/files/apminsight/TrackInfo/<number>
+/data/user/0/com.widgetable.theme.android/files/assetpacks
+/data/user/0/com.widgetable.theme.android/files/datastore
+/data/user/0/com.widgetable.theme.android/files/imkit
+/data/user/0/com.widgetable.theme.android/files/imkit/<number>
+/data/user/0/com.widgetable.theme.android/files/imkit/<number>/<number>
+/data/user/0/com.widgetable.theme.android/files/mmkv
+/data/user/0/com.widgetable.theme.android/files/oat
+/data/user/0/com.widgetable.theme.android/files/pet_space
+/data/user/0/com.widgetable.theme.android/files/pet_space/<number>
+/data/user/0/com.widgetable.theme.android/files/pet_space/<number>/<number>-<number>
+/data/user/0/com.widgetable.theme.android/files/phenotype/shared/com.google.android.gms.clearcut_client#com.widgetable.theme.android.pb
+/data/user/0/com.widgetable.theme.android/files/phenotype_storage_info/shared
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Clock_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Floor_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Table_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_WallArt_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_BR_Wall_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Cupboard_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Floor_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Fridge_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Stove_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_DR_Wall_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Cabinet_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Carpet_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Closet_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_DoorMat_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Door_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Fireplace_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Floor_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_PhotoFrame_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Plant_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Sofa_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_LR_Wall_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Floor_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Plant_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Sink_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_TowelRack_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Wall_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/furniture/item_SR_Washer_Default
+/data/user/0/com.widgetable.theme.android/files/remote/pet/res/Bear
+/data/user/0/com.widgetable.theme.android/files/remote/pet/res/Bear/HandSome
+/data/user/0/com.widgetable.theme.android/files/remote/pet/res/Bear/Sleepy
+/data/user/0/com.widgetable.theme.android/files/remote/pet/res/Bunny
+/data/user/0/com.widgetable.theme.android/files/remote/pet/res/Bunny/Happy
+/data/user/0/com.widgetable.theme.android/files/sg_bigo_ad
+/data/user/0/com.widgetable.theme.android/files/sg_bigo_ad/video/files
+/data/user/0/com.widgetable.theme.android/files/sg_bigo_ad/video/vpaid
+/data/user/0/com.widgetable.theme.android/files/sp_global_file.bak
+/data/user/0/com.widgetable.theme.android/files/unityAdsDatastore
+/data/user/0/com.widgetable.theme.android/files/ykit
+/data/user/0/com.widgetable.theme.android/no_backup
+/data/user/0/com.widgetable.theme.android/no_backup/appmetrica/analytics
+/data/user/0/com.widgetable.theme.android/no_backup/appmetrica/analytics/db
+/data/user/0/com.widgetable.theme.android/shared_prefs
+/data/user_de/0/com.widgetable.theme.android
+/data/user_de/0/com.widgetable.theme.android/code_cache
+/data/user_de/0/com.widgetable.theme.android/code_cache/com.android.renderscript.cache
+/data/user_de/0/com.widgetable.theme.android/code_cache/com.android.renderscript.cache/IntrinsicsBLUR-adreno.meta
+/sdcard/Android/data/com.widgetable.theme.android
+/sdcard/Android/data/com.widgetable.theme.android/cache
+/sdcard/Android/data/com.widgetable.theme.android/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.widgetable.theme.android/cache
+/storage/emulated/0/Android/data/com.widgetable.theme.android/files
