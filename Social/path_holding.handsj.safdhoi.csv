@@ -1,0 +1,136 @@
+﻿Path
+/data/app/com.google.android.web
+/data/app/com.google.android.webview-<base64>/lib/arm64
+/data/app/holding.handsj.safdhoi-<base64>
+/data/app/holding.handsj.safdhoi-<base64>/base.apk!/lib/arm64-v8a
+/data/app/holding.handsj.safdhoi-<base64>/lib/arm64
+/data/app/holding.handsj.safdhoi-<base64>/oat/arm64
+/data/app/holding.handsj.safdhoi-<base64>/split_config.arm64_v8a.apk
+/data/app/holding.handsj.safdhoi-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/holding.handsj.safdhoi-<base64>/split_config.xxhdpi.apk
+/data/app/holding.handsj.safdhoi-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/data/holding.handsj.safdhoi/app_webview/Default
+/data/data/holding.handsj.safdhoi/app_webview/Default/Cookies-journal
+/data/misc/profiles/cur/0/holding.handsj.safdhoi
+/data/user/0/com.google.android.webview
+/data/user/0/holding.handsj.safdhoi
+/data/user/0/holding.handsj.safdhoi/app_crash
+/data/user/0/holding.handsj.safdhoi/app_webview
+/data/user/0/holding.handsj.safdhoi/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/holding.handsj.safdhoi/app_webview/BrowserMetrics
+/data/user/0/holding.handsj.safdhoi/app_webview/Default
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Cookies
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Cookies-journal
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials/LOCK
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials/LOG
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/PersistentOriginTrials/LOG.old
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/CURRENT
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/LOCK
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/LOG
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/db
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Web Data
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/Web Data-journal
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/blob_storage
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/blob_storage/<uuid>
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/CURRENT
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/LOCK
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/LOG
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/LOG.old
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/MANIFEST-<number>
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/<number>.ldb
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/CURRENT
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/LOCK
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/LOG
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/LOG.old
+/data/user/0/holding.handsj.safdhoi/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>
+/data/user/0/holding.handsj.safdhoi/app_webview/pref_store
+/data/user/0/holding.handsj.safdhoi/app_webview/variations_seed
+/data/user/0/holding.handsj.safdhoi/app_webview/variations_stamp
+/data/user/0/holding.handsj.safdhoi/app_webview/webview_data.lock
+/data/user/0/holding.handsj.safdhoi/app_webview_holding.handsj.safdhoi
+/data/user/0/holding.handsj.safdhoi/cache
+/data/user/0/holding.handsj.safdhoi/cache/WebView
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crash Reports
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/attachments
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/completed
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/new
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Crashpad/pending
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/holding.handsj.safdhoi/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/holding.handsj.safdhoi/cache/WebView/SafeBrowsing
+/data/user/0/holding.handsj.safdhoi/cache/cache
+/data/user/0/holding.handsj.safdhoi/cache/image_manager_disk_cache
+/data/user/0/holding.handsj.safdhoi/cache/uil-images
+/data/user/0/holding.handsj.safdhoi/cache/webview_holding.handsj.safdhoi
+/data/user/0/holding.handsj.safdhoi/databases
+/data/user/0/holding.handsj.safdhoi/databases/DCStorage-journal
+/data/user/0/holding.handsj.safdhoi/files
+/data/user/0/holding.handsj.safdhoi/files/AFRequestCache
+/data/user/0/holding.handsj.safdhoi/files/AFRequestCache/<number>
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/dbfile/backstageTime_dbfile
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/dbfile/isbackstage_dbfile
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/dbfile/pauseConnection_dbfile
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/pages/index
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/pages/message
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image
+/data/user/0/holding.handsj.safdhoi/files/apps/__UNI__4397750/www/static/image/tabbar
+/data/user/0/holding.handsj.safdhoi/files/cnc3eje6
+/data/user/0/holding.handsj.safdhoi/shared_prefs
+/data/user_de/0/com.google.android.webview
+/data/user_de/0/holding.handsj.safdhoi
+/data/user_de/0/holding.handsj.safdhoi/app_webview_holding.handsj.safdhoi
+/data/user_de/0/holding.handsj.safdhoi/cache/webview_holding.handsj.safdhoi
+/data/user_de/0/holding.handsj.safdhoi/code_cache
+/data/user_de/0/holding.handsj.safdhoi/code_cache/com.android.opengl.shaders_cache
+/data/user_de/0/holding.handsj.safdhoi/code_cache/com.android.skia.shaders_cache
+/sdcard/Android/data/holding.handsj.safdhoi
+/sdcard/Android/data/holding.handsj.safdhoi/cache
+/sdcard/Android/data/holding.handsj.safdhoi/files
+/storage/emulated/0/Android/data/holding.handsj.safdhoi
+/storage/emulated/0/Android/data/holding.handsj.safdhoi/apps/
+/storage/emulated/0/Android/data/holding.handsj.safdhoi/cache
+/storage/emulated/0/Android/data/holding.handsj.safdhoi/cache/dcCrashDump
+/storage/emulated/0/Android/data/holding.handsj.safdhoi/files
+/storage/emulated/0/Android/data/holding.handsj.safdhoi/sitemap/
+\data\misc\profiles\cur\0\holding.handsj.safdhoi
+\data\user\0\holding.handsj.safdhoi\app_webview
+\data\user\0\holding.handsj.safdhoi\app_webview\BrowserMetrics
+\data\user\0\holding.handsj.safdhoi\cache\WebView
+\data\user\0\holding.handsj.safdhoi\shared_prefs

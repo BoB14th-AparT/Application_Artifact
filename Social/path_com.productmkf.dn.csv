@@ -1,0 +1,153 @@
+﻿Path
+/data/app/com.productmkf.dn-<base64>
+/data/app/com.productmkf.dn-<base64>/base.apk
+/data/app/com.productmkf.dn-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.productmkf.dn-<base64>/lib/arm64
+/data/app/com.productmkf.dn-<base64>/oat/arm64
+/data/app/com.productmkf.dn-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.productmkf.dn-<base64>/split_config.ko.apk!/lib/arm64-v8a
+/data/app/com.productmkf.dn-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/data/com.productmkf.dn
+/data/misc/gpu
+/data/misc/profiles/cur/0/com.productmkf.dn
+/data/misc/profiles/ref/com.productmkf.dn
+/data/user/0/com.productmkf.dn
+/data/user/0/com.productmkf.dn/app_SafeDK_BANNER
+/data/user/0/com.productmkf.dn/app_SafeDK_Files
+/data/user/0/com.productmkf.dn/app_SafeDK_Files/
+/data/user/0/com.productmkf.dn/app_SafeDK_INTERSTITIAL
+/data/user/0/com.productmkf.dn/app_SafeDK_MREC
+/data/user/0/com.productmkf.dn/app_SafeDK_NATIVE
+/data/user/0/com.productmkf.dn/app_pccache
+/data/user/0/com.productmkf.dn/app_pccache/<number>
+/data/user/0/com.productmkf.dn/app_pccache/<number>/<sha1>
+/data/user/0/com.productmkf.dn/app_pccache/<number>/<sha1>/oat
+/data/user/0/com.productmkf.dn/app_pccache/<number>/<sha1>/pcam.jar!
+/data/user/0/com.productmkf.dn/app_pccache/<number>/<sha1>/pcopt
+/data/user/0/com.productmkf.dn/app_textures
+/data/user/0/com.productmkf.dn/app_tmppccache
+/data/user/0/com.productmkf.dn/app_webview
+/data/user/0/com.productmkf.dn/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.productmkf.dn/app_webview/BrowserMetrics
+/data/user/0/com.productmkf.dn/cache
+/data/user/0/com.productmkf.dn/cache/WebView
+/data/user/0/com.productmkf.dn/cache/WebView/.com.google.Chrome.<webview_profile>
+/data/user/0/com.productmkf.dn/cache/WebView/Crash Reports
+/data/user/0/com.productmkf.dn/cache/WebView/Crashpad
+/data/user/0/com.productmkf.dn/cache/WebView/Crashpad/attachments
+/data/user/0/com.productmkf.dn/cache/WebView/Crashpad/completed
+/data/user/0/com.productmkf.dn/cache/WebView/Crashpad/new
+/data/user/0/com.productmkf.dn/cache/WebView/Crashpad/pending
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index
+/data/user/0/com.productmkf.dn/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index
+/data/user/0/com.productmkf.dn/cache/benefit
+/data/user/0/com.productmkf.dn/cache/benefit/journal
+/data/user/0/com.productmkf.dn/cache/data/user/<number>/com.productmkf.dn/no_backup
+/data/user/0/com.productmkf.dn/cache/image_manager_disk_cache
+/data/user/0/com.productmkf.dn/cache/instrument
+/data/user/0/com.productmkf.dn/cache/volley
+/data/user/0/com.productmkf.dn/code_cache
+/data/user/0/com.productmkf.dn/code_cache/.
+/data/user/0/com.productmkf.dn/code_cache/. ​ ​
+/data/user/0/com.productmkf.dn/code_cache/.   ​
+/data/user/0/com.productmkf.dn/code_cache/. ​
+/data/user/0/com.productmkf.dn/code_cache/. ​
+/data/user/0/com.productmkf.dn/code_cache/.  ​
+/data/user/0/com.productmkf.dn/code_cache/. ​
+/data/user/0/com.productmkf.dn/code_cache/.  ​
+/data/user/0/com.productmkf.dn/code_cache/.  ​
+/data/user/0/com.productmkf.dn/code_cache/.    ​
+/data/user/0/com.productmkf.dn/code_cache/. ​
+/data/user/0/com.productmkf.dn/code_cache/. ​​
+/data/user/0/com.productmkf.dn/code_cache/.  ​
+/data/user/0/com.productmkf.dn/code_cache/.     ​
+/data/user/0/com.productmkf.dn/code_cache/.  ​
+/data/user/0/com.productmkf.dn/code_cache/. ​
+/data/user/0/com.productmkf.dn/code_cache/.     ​
+/data/user/0/com.productmkf.dn/code_cache/. ​
+/data/user/0/com.productmkf.dn/code_cache/.     ​
+/data/user/0/com.productmkf.dn/code_cache/.    ​
+/data/user/0/com.productmkf.dn/code_cache/.  ​ ​
+/data/user/0/com.productmkf.dn/code_cache/.    ​
+/data/user/0/com.productmkf.dn/code_cache/. ​
+/data/user/0/com.productmkf.dn/code_cache/.    ​
+/data/user/0/com.productmkf.dn/code_cache/.    ​
+/data/user/0/com.productmkf.dn/code_cache/.   ​
+/data/user/0/com.productmkf.dn/code_cache/.    ​
+/data/user/0/com.productmkf.dn/code_cache/.​
+/data/user/0/com.productmkf.dn/code_cache/.​   ​
+/data/user/0/com.productmkf.dn/code_cache/.​ ​
+/data/user/0/com.productmkf.dn/code_cache/.​ ​
+/data/user/0/com.productmkf.dn/code_cache/.​​  ​
+/data/user/0/com.productmkf.dn/databases
+/data/user/0/com.productmkf.dn/databases/androidx.work.workdb
+/data/user/0/com.productmkf.dn/databases/bi-database_benefit-journal
+/data/user/0/com.productmkf.dn/databases/booster-bi-event-database-journal
+/data/user/0/com.productmkf.dn/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.productmkf.dn/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.productmkf.dn/databases/event-database-journal
+/data/user/0/com.productmkf.dn/databases/google_app_measurement_local.db-shm
+/data/user/0/com.productmkf.dn/databases/google_app_measurement_local.db-wal
+/data/user/0/com.productmkf.dn/files
+/data/user/0/com.productmkf.dn/files/.com.google.firebase.crashlytics
+/data/user/0/com.productmkf.dn/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/com.productmkf.dn/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/crash_marker
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/initialization_marker
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/native-reports
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/aqs.<md5>
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/internal-keys
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/keys
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/report
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/start-time
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/user-data
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/open-sessions/<session>/userlog
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/priority-reports
+/data/user/0/com.productmkf.dn/files/.crashlytics.v3/com.productmkf.dn/reports
+/data/user/0/com.productmkf.dn/files/.gms-dynamite-code-cache
+/data/user/0/com.productmkf.dn/files/AFExceptionsCache
+/data/user/0/com.productmkf.dn/files/AFRequestCache
+/data/user/0/com.productmkf.dn/files/AFRequestCache/AttrCache
+/data/user/0/com.productmkf.dn/files/AFRequestCache/AttrCache/<number>
+/data/user/0/com.productmkf.dn/files/AFRequestCache/ConversionsCache
+/data/user/0/com.productmkf.dn/files/AFRequestCache/ConversionsCache/<number>
+/data/user/0/com.productmkf.dn/files/AFRequestCache/OtherCache
+/data/user/0/com.productmkf.dn/files/AFRequestCache/OtherCache/<number>
+/data/user/0/com.productmkf.dn/files/AppEventsLogger.persistedevents
+/data/user/0/com.productmkf.dn/files/al
+/data/user/0/com.productmkf.dn/files/al/persisted-ads
+/data/user/0/com.productmkf.dn/files/datastore
+/data/user/0/com.productmkf.dn/files/phenotype/shared
+/data/user/0/com.productmkf.dn/files/phenotype_storage_info/shared
+/data/user/0/com.productmkf.dn/lib
+/data/user/0/com.productmkf.dn/no_backup
+/data/user/0/com.productmkf.dn/no_backup/androidx.work.workdb-journal
+/data/user/0/com.productmkf.dn/shared_prefs
+/data/user_de/0/com.productmkf.dn
+/data/user_de/0/com.productmkf.dn/code_cache
+/data/user_de/0/com.productmkf.dn/shared_prefs
+/sdcard/Android/data/com.productmkf.dn
+/sdcard/Android/data/com.productmkf.dn/cache
+/sdcard/Android/data/com.productmkf.dn/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.productmkf.dn/cache
+/storage/emulated/0/Android/data/com.productmkf.dn/files
+\data\misc\profiles\cur\0\com.productmkf.dn
+\data\user\0\com.google.android.gms\files\phenotype\shared
+\data\user\0\com.productmkf.dn\app_webview
+\data\user\0\com.productmkf.dn\app_webview\BrowserMetrics
+\data\user\0\com.productmkf.dn\cache\benefit
+\data\user\0\com.productmkf.dn\cache\image_manager_disk_cache
+\data\user\0\com.productmkf.dn\files\phenotype\shared
+\data\user\0\com.productmkf.dn\shared_prefs

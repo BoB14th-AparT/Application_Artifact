@@ -1,0 +1,90 @@
+﻿Path
+/data/app/com.dcinside.app.android-<base64>
+/data/app/com.dcinside.app.android-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.dcinside.app.android-<base64>/lib/arm64
+/data/app/com.dcinside.app.android-<base64>/oat/arm64
+/data/app/com.dcinside.app.android-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.dcinside.app.android-<base64>/split_config.ko.apk!/lib/arm64-v8a
+/data/app/com.dcinside.app.android-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/data/com.dcinside.app.android
+/data/data/com.dcinside.app.android/app_webview__dc0/Default
+/data/misc/profiles/cur/0/com.dcinside.app.android
+/data/user/0/com.dcinside.app.android
+/data/user/0/com.dcinside.app.android/app_lib
+/data/user/0/com.dcinside.app.android/app_pccache
+/data/user/0/com.dcinside.app.android/app_pccache/<number>
+/data/user/0/com.dcinside.app.android/app_pccache/<number>/<sha1>
+/data/user/0/com.dcinside.app.android/app_pccache/<number>/<sha1>/oat
+/data/user/0/com.dcinside.app.android/app_pccache/<number>/<sha1>/pcam.jar!
+/data/user/0/com.dcinside.app.android/app_pccache/<number>/<sha1>/pcopt
+/data/user/0/com.dcinside.app.android/app_tmppccache
+/data/user/0/com.dcinside.app.android/app_webview
+/data/user/0/com.dcinside.app.android/app_webview__dc0
+/data/user/0/com.dcinside.app.android/app_webview__dc0/.com.google.Chrome.<webview_profile>
+/data/user/0/com.dcinside.app.android/app_webview__dc0/BrowserMetrics
+/data/user/0/com.dcinside.app.android/app_webview_com.dcinside.app.android
+/data/user/0/com.dcinside.app.android/cache
+/data/user/0/com.dcinside.app.android/cache/WebView
+/data/user/0/com.dcinside.app.android/cache/com.kakao.adfit.cache
+/data/user/0/com.dcinside.app.android/cache/data/user/<number>/com.dcinside.app.android/no_backup
+/data/user/0/com.dcinside.app.android/cache/http
+/data/user/0/com.dcinside.app.android/cache/image_manager_disk_cache
+/data/user/0/com.dcinside.app.android/cache/resizeimage
+/data/user/0/com.dcinside.app.android/cache/voice
+/data/user/0/com.dcinside.app.android/cache/volley
+/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1
+/data/user/0/com.dcinside.app.android/cache/webview__dc0/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s
+/data/user/0/com.dcinside.app.android/cache/webview_com.dcinside.app.android
+/data/user/0/com.dcinside.app.android/databases
+/data/user/0/com.dcinside.app.android/databases/androidx.work.workdb
+/data/user/0/com.dcinside.app.android/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.dcinside.app.android/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.dcinside.app.android/databases/google_app_measurement_local.db-shm
+/data/user/0/com.dcinside.app.android/databases/google_app_measurement_local.db-wal
+/data/user/0/com.dcinside.app.android/files
+/data/user/0/com.dcinside.app.android/files/.com.google.firebase.crashlytics
+/data/user/0/com.dcinside.app.android/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/com.dcinside.app.android/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/crash_marker
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/initialization_marker
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/native-reports
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/<session>
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/<session>/aqs.<md5>
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/<session>/internal-keys
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/<session>/keys
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/<session>/report
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/<session>/start-time
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/open-sessions/<session>/userlog
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/priority-reports
+/data/user/0/com.dcinside.app.android/files/.crashlytics.v3/com.dcinside.app.android/reports
+/data/user/0/com.dcinside.app.android/files/.gms-dynamite-code-cache
+/data/user/0/com.dcinside.app.android/files/.realm.temp
+/data/user/0/com.dcinside.app.android/files/datastore
+/data/user/0/com.dcinside.app.android/files/phenotype/shared
+/data/user/0/com.dcinside.app.android/files/phenotype_storage_info/shared
+/data/user/0/com.dcinside.app.android/lib
+/data/user/0/com.dcinside.app.android/no_backup
+/data/user/0/com.dcinside.app.android/no_backup/androidx.work.workdb-journal
+/data/user/0/com.dcinside.app.android/shared_prefs
+/data/user_de/0/com.dcinside.app.android
+/data/user_de/0/com.dcinside.app.android/app_webview_com.dcinside.app.android
+/data/user_de/0/com.dcinside.app.android/cache/webview_com.dcinside.app.android
+/data/user_de/0/com.dcinside.app.android/code_cache
+/data/user_de/0/com.dcinside.app.android/shared_prefs
+/sdcard/Android/data/com.dcinside.app.android
+/sdcard/Android/data/com.dcinside.app.android/cache
+/sdcard/Android/data/com.dcinside.app.android/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.dcinside.app.android/cache
+/storage/emulated/0/Android/data/com.dcinside.app.android/files
+\data\misc\profiles\cur\0\com.dcinside.app.android
+\data\user\0\com.dcinside.app.android\app_webview__dc0\BrowserMetrics

@@ -1,0 +1,95 @@
+﻿Path
+/data/app/com.blockchainvault-<base64>
+/data/app/com.blockchainvault-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.blockchainvault-<base64>/lib/arm64
+/data/app/com.blockchainvault-<base64>/oat/arm64
+/data/data/com.blockchainvault
+/data/data/com.blockchainvault/app_webview/Default
+/data/data/com.blockchainvault/app_webview/Default/WebStorage
+/data/data/com.blockchainvault/files/datastore
+/data/misc/profiles/cur/0/com.blockchainvault
+/data/user/0/com.blockchainvault
+/data/user/0/com.blockchainvault/app_optimized
+/data/user/0/com.blockchainvault/app_webview
+/data/user/0/com.blockchainvault/app_webview/.com.google.Chrome.<webview_profile>
+/data/user/0/com.blockchainvault/app_webview/BrowserMetrics
+/data/user/0/com.blockchainvault/app_webview/Default
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.blob
+/data/user/0/com.blockchainvault/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/<cache_entry_hex16>_0
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/<cache_entry_hex16>_1
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/<cache_entry_hex16>_s
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index-dir
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index-dir/temp-index
+/data/user/0/com.blockchainvault/app_webview/Default/Service Worker/CacheStorage/<sha1>/<uuid>/index-dir/the-real-index
+/data/user/0/com.blockchainvault/app_webview/Default/VideoDecodeStats
+/data/user/0/com.blockchainvault/cache
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_1
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_s
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/temp-index
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Cache_Data/todelete_<cache_entry_hex16>_0_<number>
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_1
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_s
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/temp-index
+/data/user/0/com.blockchainvault/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index
+/data/user/0/com.blockchainvault/cache/data/user/<number>/com.blockchainvault/no_backup
+/data/user/0/com.blockchainvault/cache/http-cache
+/data/user/0/com.blockchainvault/cache/instrument
+/data/user/0/com.blockchainvault/cache/playable
+/data/user/0/com.blockchainvault/cache/su
+/data/user/0/com.blockchainvault/cache/supersonicads
+/data/user/0/com.blockchainvault/cache/tt_ad
+/data/user/0/com.blockchainvault/cache/tt_tmpl_pkg
+/data/user/0/com.blockchainvault/databases
+/data/user/0/com.blockchainvault/databases/OneSignal.db-shm
+/data/user/0/com.blockchainvault/databases/OneSignal.db-wal
+/data/user/0/com.blockchainvault/databases/androidx.work.workdb
+/data/user/0/com.blockchainvault/databases/google_app_measurement_local.db-shm
+/data/user/0/com.blockchainvault/databases/google_app_measurement_local.db-wal
+/data/user/0/com.blockchainvault/databases/mbridge.msdk.db-shm
+/data/user/0/com.blockchainvault/databases/mbridge.msdk.db-wal
+/data/user/0/com.blockchainvault/databases/supersonic_sdk.db
+/data/user/0/com.blockchainvault/databases/supersonic_sdk.db-shm
+/data/user/0/com.blockchainvault/databases/supersonic_sdk.db-wal
+/data/user/0/com.blockchainvault/databases/track_manager_monitor.db-shm
+/data/user/0/com.blockchainvault/databases/track_manager_monitor.db-wal
+/data/user/0/com.blockchainvault/files
+/data/user/0/com.blockchainvault/files/.gms-dynamite-code-cache
+/data/user/0/com.blockchainvault/files/al
+/data/user/0/com.blockchainvault/files/apminsight/TrackInfo/<number>
+/data/user/0/com.blockchainvault/files/datastore
+/data/user/0/com.blockchainvault/files/im_cached_content
+/data/user/0/com.blockchainvault/files/inmobiwebassetcache
+/data/user/0/com.blockchainvault/files/oat
+/data/user/0/com.blockchainvault/files/phenotype/shared
+/data/user/0/com.blockchainvault/files/phenotype_storage_info/shared
+/data/user/0/com.blockchainvault/files/sp_global_file
+/data/user/0/com.blockchainvault/lib-main
+/data/user/0/com.blockchainvault/lib-main/dso_lock
+/data/user/0/com.blockchainvault/no_backup
+/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb
+/data/user/0/com.blockchainvault/no_backup/androidx.work.workdb-journal
+/data/user/0/com.blockchainvault/no_backup/unclosed_ad
+/data/user/0/com.blockchainvault/shared_prefs
+/data/user/0/com.blockchainvault/shared_prefs/com.facebo
+/data/user_de/0/com.blockchainvault
+/data/user_de/0/com.blockchainvault/code_cache
+/data/user_de/0/com.blockchainvault/shared_prefs
+/sdcard/Android/data/com.blockchainvault
+/sdcard/Android/data/com.blockchainvault/cache
+/sdcard/Android/data/com.blockchainvault/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.blockchainvault/cache
+/storage/emulated/0/Android/data/com.blockchainvault/files
+\data\user\0\com.blockchainvault\app_webview\BrowserMetrics
+\data\user\0\com.blockchainvault\files
+\data\user\0\com.blockchainvault\files\phenotype\shared
+\data\user\0\com.blockchainvault\shared_prefs
+\data\user_de\0\com.blockchainvault\shared_prefs

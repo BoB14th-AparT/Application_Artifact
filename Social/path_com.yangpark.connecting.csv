@@ -1,0 +1,182 @@
+﻿Path
+/data/app/com.yangpark.connecting-<base64>
+/data/app/com.yangpark.connecting-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.yangpark.connecting-<base64>/lib/arm64
+/data/app/com.yangpark.connecting-<base64>/lib/arm64-v8a
+/data/app/com.yangpark.connecting-<base64>/oat/arm64
+/data/app/com.yangpark.connecting-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.yangpark.connecting-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/data/com.yangpark.connecting/files/datastore
+/data/data/com.yangpark.connecting/files/datastore/firebaseSessions
+/data/data/com.yangpark.connecting/files/datastore/firebaseSessions/sessionDataStore.data.lock
+/data/data/com.yangpark.connecting/lib-main
+/data/misc/profiles/cur/0/com.yangpark.connecting
+/data/user/0/com.yangpark.connecting
+/data/user/0/com.yangpark.connecting/app_webview
+/data/user/0/com.yangpark.connecting/app_webview/BrowserMetrics
+/data/user/0/com.yangpark.connecting/app_webview/Default
+/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage
+/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb
+/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/<number>.ldb
+/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/com.yangpark.connecting/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/com.yangpark.connecting/app_webview/Default/PersistentOriginTrials
+/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage
+/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage/CURRENT
+/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage/LOCK
+/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage/LOG
+/data/user/0/com.yangpark.connecting/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary
+/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/cache
+/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/db
+/data/user/0/com.yangpark.connecting/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/com.yangpark.connecting/app_webview/Default/Web Data
+/data/user/0/com.yangpark.connecting/app_webview/Default/Web Data-journal
+/data/user/0/com.yangpark.connecting/app_webview/Default/blob_storage
+/data/user/0/com.yangpark.connecting/app_webview/Default/blob_storage/<uuid>
+/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db
+/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/MANIFEST-<number>
+/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata
+/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/<number>.ldb
+/data/user/0/com.yangpark.connecting/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>
+/data/user/0/com.yangpark.connecting/app_webview_com.yangpark.connecting
+/data/user/0/com.yangpark.connecting/cache
+/data/user/0/com.yangpark.connecting/cache/WebView
+/data/user/0/com.yangpark.connecting/cache/WebView/Crash Reports
+/data/user/0/com.yangpark.connecting/cache/WebView/Crashpad
+/data/user/0/com.yangpark.connecting/cache/WebView/Crashpad/attachments
+/data/user/0/com.yangpark.connecting/cache/WebView/Crashpad/completed
+/data/user/0/com.yangpark.connecting/cache/WebView/Crashpad/new
+/data/user/0/com.yangpark.connecting/cache/WebView/Crashpad/pending
+/data/user/0/com.yangpark.connecting/cache/WebView/Default
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/com.yangpark.connecting/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/com.yangpark.connecting/cache/WebView/SafeBrowsing
+/data/user/0/com.yangpark.connecting/cache/data/user/<number>/com.yangpark.connecting/no_backup
+/data/user/0/com.yangpark.connecting/cache/http-cache
+/data/user/0/com.yangpark.connecting/cache/http-cache/<md5>.<number>
+/data/user/0/com.yangpark.connecting/cache/http-cache/journal
+/data/user/0/com.yangpark.connecting/cache/image_cache
+/data/user/0/com.yangpark.connecting/cache/image_cache/v2.ols100.<number>
+/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache
+/data/user/0/com.yangpark.connecting/cache/image_manager_disk_cache/<sha256>.<number>
+/data/user/0/com.yangpark.connecting/cache/instrument
+/data/user/0/com.yangpark.connecting/cache/newrelic/applicationExitInfo
+/data/user/0/com.yangpark.connecting/cache/newrelic/applicationExitInfo/aeitrace
+/data/user/0/com.yangpark.connecting/cache/newrelic/applicationExitInfo/sessionMeta.map
+/data/user/0/com.yangpark.connecting/cache/react-native-image-crop-picker
+/data/user/0/com.yangpark.connecting/cache/webview_com.yangpark.connecting
+/data/user/0/com.yangpark.connecting/databases
+/data/user/0/com.yangpark.connecting/databases/androidx.work.workdb
+/data/user/0/com.yangpark.connecting/databases/com.amplitude.api-shm
+/data/user/0/com.yangpark.connecting/databases/com.amplitude.api-wal
+/data/user/0/com.yangpark.connecting/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.yangpark.connecting/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.yangpark.connecting/databases/google_app_measurement_local.db-shm
+/data/user/0/com.yangpark.connecting/databases/google_app_measurement_local.db-wal
+/data/user/0/com.yangpark.connecting/files
+/data/user/0/com.yangpark.connecting/files/.com.google.firebase.crashlytics
+/data/user/0/com.yangpark.connecting/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/com.yangpark.connecting/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767285739
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767359000
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767371565
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767388491
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767578279
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767597000
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767618050
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767665114
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767681949
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767700635
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767824261
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767943015
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/.ae1765767963089
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/crash_marker
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/initialization_marker
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/native-reports
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/native-reports/<crash_report>
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/aqs.<md5>
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/event<crash_event_seq>_
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/internal-keys
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/keys
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/app
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/attachments
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/completed
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/device
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/keys
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/logs
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/metadata
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/minidump
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/new
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/os
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/pending
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/pending/<uuid>.dmp
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/pending/<uuid>.meta
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/session
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/supp.device_info
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/native/user
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/report
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/rollouts-state
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/start-time
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/user-data
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/open-sessions/<session>/userlog
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/priority-reports/<md5>
+/data/user/0/com.yangpark.connecting/files/.crashlytics.v3/com.yangpark.connecting/reports
+/data/user/0/com.yangpark.connecting/files/.gms-dynamite-code-cache
+/data/user/0/com.yangpark.connecting/files/AFRequestCache
+/data/user/0/com.yangpark.connecting/files/AFRequestCache/AttrCache
+/data/user/0/com.yangpark.connecting/files/AFRequestCache/ConversionsCache
+/data/user/0/com.yangpark.connecting/files/AFRequestCache/OtherCache
+/data/user/0/com.yangpark.connecting/files/AFRequestCache/OtherCache/<number>
+/data/user/0/com.yangpark.connecting/files/AppEventsLogger.persistedevents
+/data/user/0/com.yangpark.connecting/files/CodePush
+/data/user/0/com.yangpark.connecting/files/datastore
+/data/user/0/com.yangpark.connecting/files/datastore/firebaseSessions
+/data/user/0/com.yangpark.connecting/files/nr_offline_storage
+/data/user/0/com.yangpark.connecting/files/phenotype/shared
+/data/user/0/com.yangpark.connecting/files/phenotype_storage_info/shared
+/data/user/0/com.yangpark.connecting/lib-main
+/data/user/0/com.yangpark.connecting/lib-main/dso_deps
+/data/user/0/com.yangpark.connecting/lib-main/dso_state
+/data/user/0/com.yangpark.connecting/no_backup
+/data/user/0/com.yangpark.connecting/no_backup/androidx.work.workdb-journal
+/data/user/0/com.yangpark.connecting/shared_prefs
+/data/user_de/0/com.yangpark.connecting
+/data/user_de/0/com.yangpark.connecting/app_webview_com.yangpark.connecting
+/data/user_de/0/com.yangpark.connecting/cache/webview_com.yangpark.connecting
+/data/user_de/0/com.yangpark.connecting/code_cache
+/data/user_de/0/com.yangpark.connecting/shared_prefs
+/sdcard/Android/data/com.yangpark.connecting
+/sdcard/Android/data/com.yangpark.connecting/cache
+/sdcard/Android/data/com.yangpark.connecting/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.yangpark.connecting/cache
+/storage/emulated/0/Android/data/com.yangpark.connecting/files
+\data\misc\profiles\cur\0\com.yangpark.connecting
+\data\user\0\com.yangpark.connecting\app_webview\BrowserMetrics
+\data\user\0\com.yangpark.connecting\cache\http-cache
+\data\user\0\com.yangpark.connecting\cache\image_cache\v2.ols100.<number>\<number>
+\data\user\0\com.yangpark.connecting\cache\image_manager_disk_cache

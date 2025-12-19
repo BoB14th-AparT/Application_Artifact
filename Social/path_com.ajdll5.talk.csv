@@ -1,0 +1,134 @@
+﻿Path
+/data/app/com.ajdll5.talk-<base64>
+/data/app/com.ajdll5.talk-<base64>/base.apk!/lib/arm64-v8a
+/data/app/com.ajdll5.talk-<base64>/lib
+/data/app/com.ajdll5.talk-<base64>/oat/arm64
+/data/app/com.ajdll5.talk-<base64>/split_config.arm64_v8a.apk!/lib/arm64-v8a
+/data/app/com.ajdll5.talk-<base64>/split_config.ko.apk!/lib/arm64-v8a
+/data/app/com.ajdll5.talk-<base64>/split_config.xxhdpi.apk!/lib/arm64-v8a
+/data/misc/profiles/cur/0/com.ajdll5.talk
+/data/user/0/com.ajdll5.talk
+/data/user/0/com.ajdll5.talk/app_flutter
+/data/user/0/com.ajdll5.talk/app_pccache
+/data/user/0/com.ajdll5.talk/app_tmppccache
+/data/user/0/com.ajdll5.talk/app_webview
+/data/user/0/com.ajdll5.talk/app_webview/BrowserMetrics
+/data/user/0/com.ajdll5.talk/app_webview/Default
+/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage
+/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb
+/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/<number>.ldb
+/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/CURRENT
+/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/LOCK
+/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/LOG
+/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/user/0/com.ajdll5.talk/app_webview/Default/Local Storage/leveldb/MANIFEST-<number>
+/data/user/0/com.ajdll5.talk/app_webview/Default/PersistentOriginTrials
+/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage
+/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage/CURRENT
+/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage/LOCK
+/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage/LOG
+/data/user/0/com.ajdll5.talk/app_webview/Default/Session Storage/MANIFEST-<number>
+/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary
+/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/cache
+/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/cache/index
+/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/cache/index-dir
+/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/cache/index-dir/the-real-index
+/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/db
+/data/user/0/com.ajdll5.talk/app_webview/Default/Shared Dictionary/db-journal
+/data/user/0/com.ajdll5.talk/app_webview/Default/VideoDecodeStats
+/data/user/0/com.ajdll5.talk/app_webview/Default/Web Data
+/data/user/0/com.ajdll5.talk/app_webview/Default/Web Data-journal
+/data/user/0/com.ajdll5.talk/app_webview/Default/blob_storage
+/data/user/0/com.ajdll5.talk/app_webview/Default/blob_storage/<uuid>
+/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db
+/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/MANIFEST-<number>
+/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata
+/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/<number>.ldb
+/data/user/0/com.ajdll5.talk/app_webview/Default/shared_proto_db/metadata/MANIFEST-<number>
+/data/user/0/com.ajdll5.talk/app_webview_com.ajdll5.talk
+/data/user/0/com.ajdll5.talk/cache
+/data/user/0/com.ajdll5.talk/cache/WebView
+/data/user/0/com.ajdll5.talk/cache/WebView/Crash Reports
+/data/user/0/com.ajdll5.talk/cache/WebView/Crashpad
+/data/user/0/com.ajdll5.talk/cache/WebView/Crashpad/attachments
+/data/user/0/com.ajdll5.talk/cache/WebView/Crashpad/completed
+/data/user/0/com.ajdll5.talk/cache/WebView/Crashpad/new
+/data/user/0/com.ajdll5.talk/cache/WebView/Crashpad/pending
+/data/user/0/com.ajdll5.talk/cache/WebView/Default
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/<cache_entry_hex16>_0
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/index
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/<cache_entry_hex16>_0
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/index
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/wasm
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index
+/data/user/0/com.ajdll5.talk/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir
+/data/user/0/com.ajdll5.talk/cache/WebView/SafeBrowsing
+/data/user/0/com.ajdll5.talk/cache/volley
+/data/user/0/com.ajdll5.talk/cache/webview_com.ajdll5.talk
+/data/user/0/com.ajdll5.talk/databases
+/data/user/0/com.ajdll5.talk/databases/androidx.work.workdb
+/data/user/0/com.ajdll5.talk/databases/com.google.android.datatransport.events
+/data/user/0/com.ajdll5.talk/databases/com.google.android.datatransport.events-shm
+/data/user/0/com.ajdll5.talk/databases/com.google.android.datatransport.events-wal
+/data/user/0/com.ajdll5.talk/databases/google_app_measurement_local.db-shm
+/data/user/0/com.ajdll5.talk/databases/google_app_measurement_local.db-wal
+/data/user/0/com.ajdll5.talk/files
+/data/user/0/com.ajdll5.talk/files/.com.google.firebase.crashlytics
+/data/user/0/com.ajdll5.talk/files/.com.google.firebase.crashlytics-ndk
+/data/user/0/com.ajdll5.talk/files/.com.google.firebase.crashlytics.files.v1
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704361255
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704479688
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704492966
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704532272
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704575217
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704587348
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704651940
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704679225
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765704828044
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765705003462
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765705035190
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765705074746
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765705086000
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/.ae1765705118305
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/initialization_marker
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/native-reports
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/<session>
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/<session>/aqs.<md5>
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/<session>/event<crash_event_seq>_
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/<session>/internal-keys
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/<session>/keys
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/<session>/report
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/<session>/start-time
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/<session>/user-data
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/open-sessions/<session>/userlog
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/priority-reports/<md5>
+/data/user/0/com.ajdll5.talk/files/.crashlytics.v3/com.ajdll5.talk/reports
+/data/user/0/com.ajdll5.talk/files/.gms-dynamite-code-cache
+/data/user/0/com.ajdll5.talk/files/datastore
+/data/user/0/com.ajdll5.talk/files/phenotype_storage_info/shared
+/data/user/0/com.ajdll5.talk/no_backup
+/data/user/0/com.ajdll5.talk/no_backup/androidx.work.workdb-journal
+/data/user/0/com.ajdll5.talk/shared_prefs
+/data/user_de/0/com.ajdll5.talk
+/data/user_de/0/com.ajdll5.talk/app_webview_com.ajdll5.talk
+/data/user_de/0/com.ajdll5.talk/cache/webview_com.ajdll5.talk
+/data/user_de/0/com.ajdll5.talk/code_cache
+/data/user_de/0/com.ajdll5.talk/shared_prefs
+/sdcard/Android/data/com.ajdll5.talk
+/sdcard/Android/data/com.ajdll5.talk/files
+/storage/emulated/0
+/storage/emulated/0/Android/data/com.ajdll5.talk/files
+\data\misc\profiles\cur\0\com.ajdll5.talk
+\data\user\0\com.ajdll5.talk\app_webview
+\data\user\0\com.ajdll5.talk\app_webview\BrowserMetrics
+\data\user\0\com.ajdll5.talk\files\phenotype\shared
